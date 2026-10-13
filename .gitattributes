@@ -1,0 +1,13 @@
+# Normalize line endings: store LF in the repo and use LF in the working tree,
+# so Windows CRLF files (like data/after/*.csv) stop showing up as whole-file diffs.
+* text=auto eol=lf
+
+# Be explicit about the text formats in this project
+*.py  text eol=lf
+*.csv text eol=lf
+*.md  text eol=lf
+*.rq  text eol=lf
+*.txt text eol=lf
+
+# Never touch images
+*.png binary
