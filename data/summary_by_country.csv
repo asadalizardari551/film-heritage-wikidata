@@ -1,0 +1,4 @@
+Country,Unique films,Raw rows (before cleaning),% with English label,% of films with a director recorded,Film-director credits,% of director credits with gender recorded,% women among credits with known gender
+Belgium,2207,3977,86.3,94.6,2300,97.8,20.5
+Portugal,949,1293,80.7,91.5,981,97.8,16.6
+Ireland,589,1161,99.5,88.5,580,95.9,15.6
