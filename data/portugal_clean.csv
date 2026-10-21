@@ -1,0 +1,950 @@
+qid,title,country,first_year,year_conflict,decade,has_english_label,directors,director_genders,has_director
+Q100146341,Inés de Castro,Portugal,1944,False,1940,True,José Leitão de Barros,male,True
+Q101245336,Cabo Verde nha cretcheu,Portugal,2007,False,2000,True,Ana Lúcia Ramos Lisboa,female,True
+Q102098015,Q102098015,Portugal,1973,False,1970,False,Rafael Romero Marchent,male,True
+Q102410713,Gaza mon amour,Portugal,2020,True,2020,True,Arab Nasser; Tarzan Nasser,male; male,True
+Q102416874,Judgment in Hungary,Portugal,2013,True,2010,True,Eszter Hajdú,female,True
+Q10260707,Q10260707,Portugal,2008,False,2000,False,Pedro Sena Nunes,male,True
+Q10260902,Corrupção,Portugal,2007,False,2000,True,João Botelho,male,True
+Q10261515,Q10261515,Portugal,1990,False,1990,False,,,False
+Q10261874,Q10261874,Portugal,1967,False,1960,False,Jorge Brum do Canto,male,True
+Q10262043,Crónica dos Bons Malandros,Portugal,1984,False,1980,True,Fernando Lopes,male,True
+Q10262451,Q10262451,Portugal,2008,False,2000,False,Miguel Gonçalves Mendes,male,True
+Q10263477,Q10263477,Portugal,2001,False,2000,False,Miguel Gonçalves Mendes,male,True
+Q10264187,Q10264187,Portugal,2004,False,2000,False,Jeanne Waltz,female,True
+Q10264304,Twin Flames,Portugal,1992,False,1990,True,Joaquim Pinto,male,True
+Q10264528,Q10264528,Portugal,1976,False,1970,False,,,False
+Q10265396,Q10265396,Portugal,2012,False,2010,False,,,False
+Q10265773,"Deus, Pátria, Autoridade",Portugal,1975,False,1970,True,Rui Simões,male,True
+Q10267965,Dom Roberto,Portugal,1962,False,1960,True,José Ernesto de Sousa,male,True
+Q10268013,Sunday Afternoon,Portugal,1966,False,1960,True,António de Macedo,male,True
+Q1027087,Call Girl,Portugal,2007,False,2000,True,António-Pedro Vasconcelos,male,True
+Q10272384,Q10272384,Portugal,1976,False,1970,False,António-Pedro Vasconcelos,male,True
+Q10275307,Esquece Tudo O Que Te Disse,Portugal,2002,False,2000,True,António Ferreira,male,True
+Q10279857,Q10279857,Portugal,1974,False,1970,False,António Campos,male,True
+Q10279925,Famalicão,Portugal,1941,False,1940,True,Manoel de Oliveira,male,True
+Q10280016,Fantasia Lusitana,Portugal,2010,False,2010,True,João Canijo,male,True
+Q10280263,Fatal,Portugal,2005,False,2000,True,Pedro Sousa,male,True
+Q10281727,Q10281727,Portugal,1973,False,1970,False,Manuel Costa e Silva,male,True
+Q10282193,Filha da Mãe,Portugal,1990,False,1990,True,João Canijo,male,True
+Q10282320,Filme da Treta,Portugal,2006,False,2000,True,José Sacramento,male,True
+Q10282323,Filme do Desassossego,Portugal,2010,False,2010,True,João Botelho,male,True
+Q10282944,Q10282944,Portugal,2007,False,2000,False,Miguel Gonçalves Mendes,male,True
+Q10285893,Frei Luís de Sousa,Portugal,1950,False,1950,True,António Lopes Ribeiro,male,True
+Q10286121,Frágil como o Mundo,Portugal,2000,False,2000,True,Rita Azevedo Gomes,female,True
+Q10287002,Q10287002,Portugal,1928,False,1920,False,Rino Lupo,male,True
+Q10287007,Fátima Story,Portugal,1976,False,1970,True,António de Macedo,male,True
+Q10287957,Gado Bravo,Portugal,1934,False,1930,True,António Lopes Ribeiro; Max Nosseck,male; male,True
+Q10288776,Q10288776,Portugal,1976,False,1970,False,António Campos,male,True
+Q10291549,Q10291549,Portugal,1976,False,1970,False,,,False
+Q10301104,Ilha da Cova da Moura,Portugal,2010,False,2010,True,Rui Simões,male,True
+Q10302111,Inferno,Portugal,1999,False,1990,True,Joaquim Leitão,male,True
+Q10303242,Q10303242,Portugal,2012,False,2010,False,António Borges Correia,male,True
+Q10303400,Ines of Portugal,Portugal,1997,False,1990,True,José Carlos de Oliveira,male,True
+Q10304097,Q10304097,Portugal,2012,False,2010,False,,,False
+Q10304909,Jaime,Portugal,1974,False,1970,True,António Reis; Margarida Cordeiro,male; female,True
+Q10304910,Jaime,Portugal,1999,False,1990,True,António-Pedro Vasconcelos,male,True
+Q10310878,José do Telhado,Portugal,1929,False,1920,True,Rino Lupo,male,True
+Q10312820,Julgamento,Portugal,2007,False,2000,True,Leonel Vieira,male,True
+Q10314441,Kiss Me,Portugal,2004,False,2000,True,António da Cunha Telles,male,True
+Q10317165,Lena,Portugal,2001,False,2000,True,Gonzalo Tapia,male,True
+Q10317895,Q10317895,Portugal,1975,False,1970,False,Luís Galvão Teles,male,True
+Q10318897,Q10318897,Portugal,1930,False,1930,False,José Leitão de Barros,male,True
+Q10318898,O Direito à Cidade,Portugal,1974,False,1970,True,Eduardo Geada,male,True
+Q10318904,Q10318904,Portugal,1948,False,1940,False,António Lopes Ribeiro,male,True
+Q10319665,Q10319665,Portugal,1998,False,1990,False,João Mário Grilo,male,True
+Q10321891,Lá Fora,Portugal,2004,False,2000,True,Fernando Lopes,male,True
+Q10321894,Q10321894,Portugal,2002,False,2000,False,Carlos Alberto Pintinho,male,True
+Q10323271,Mal,Portugal,1999,False,1990,True,Alberto Seixas Santos,male,True
+Q10325642,Q10325642,Portugal,1995,False,1990,False,Pedro Sena Nunes,male,True
+Q10326199,Q10326199,Portugal,2004,False,2000,False,José de Sá Caetano,male,True
+Q1032727,"No, or the Vain Glory of Command",Portugal,1990,False,1990,True,Manoel de Oliveira,male,True
+Q10327272,Matar Saudades,Portugal,1988,False,1980,True,Fernando Lopes,male,True
+Q10328595,Memórias Póstumas,Portugal,2001,False,2000,True,André Klotzel,male,True
+Q10333092,Mulheres da Beira,Portugal,1921,False,1920,True,Rino Lupo,male,True
+Q10334595,Q10334595,Portugal,1976,False,1970,False,Noémia Delgado,female,True
+Q10335528,Q10335528,Portugal,1940,False,1940,False,,,False
+Q10335876,Q10335876,Portugal,1929,False,1920,False,José Leitão de Barros,male,True
+Q10335883,Nazaré,Portugal,1952,False,1950,True,Manuel Guimarães,male,True
+Q10337106,Q10337106,Portugal,1975,False,1970,False,Ricardo Costa,male,True
+Q10337241,Nights,Portugal,2000,False,2000,True,Cláudia Tomaz,female,True
+Q10337263,Q10337263,Portugal,1970,False,1970,False,António de Macedo,male,True
+Q10338523,Nós por Cá Todos Bem,Portugal,1978,False,1970,True,Fernando Lopes,male,True
+Q10338825,O Capacete Dourado (The Golden Helmet),Portugal,2007,False,2000,True,Jorge Cramez,male,True
+Q10338898,Q10338898,Portugal,1953,False,1950,False,Constantino Esteves,male,True
+Q10338955,The Crime of Aldeia Velha,Portugal,1964,False,1960,True,Manuel Guimarães,male,True
+Q10338986,O Delfim,Portugal,2002,False,2000,True,Fernando Lopes,male,True
+Q10339004,Q10339004,Portugal,1970,False,1970,False,Henrique Campos,male,True
+Q10339114,O Estrondo 2,Portugal,2013,False,2010,True,,,False
+Q10339115,O Estrondo,Portugal,2012,False,2010,True,,,False
+Q10339134,The Fascination,Portugal,2003,False,2000,True,José Fonseca e Costa,male,True
+Q10339135,O Fato Completo Ou À Procura De Alberto,Portugal,2002,False,2000,True,Inês de Medeiros,female,True
+Q10339136,The Fatalist,Portugal,2005,False,2000,True,João Botelho,male,True
+Q10339168,Q10339168,Portugal,1976,False,1970,False,Eduardo Geada,male,True
+Q10339339,Dead Man's Seat,Portugal,1984,False,1980,True,António-Pedro Vasconcelos,male,True
+Q10339349,O Mal-Amado,Portugal,1974,False,1970,True,Fernando Matos Silva,male,True
+Q10339502,Q10339502,Portugal,1984,False,1980,False,Ricardo Costa,male,True
+Q10339518,Q10339518,Portugal,1976,False,1970,False,António de Macedo,male,True
+Q10339526,The Tyrant Father,Portugal,1941,False,1940,True,António Lopes Ribeiro,male,True
+Q10339626,Q10339626,Portugal,1923,False,1920,False,Georges Pallu,male,True
+Q10339633,The King's Trial,Portugal,1990,False,1990,True,João Mário Grilo,male,True
+Q10339681,O Querido Lilás,Portugal,1987,False,1980,True,Artur Semedo,male,True
+Q10339691,Q10339691,Portugal,2002,False,2000,False,Fernando Matos Silva,male,True
+Q10339700,The Message,Portugal,1972,False,1970,True,José Fonseca e Costa,male,True
+Q10339708,O Rei das Berlengas,Portugal,1978,False,1970,True,Artur Semedo,male,True
+Q10339720,Q10339720,Portugal,1977,False,1970,False,Luís Gaspar,male,True
+Q10339770,Q10339770,Portugal,2010,False,2010,False,Henrique Oliveira,male,True
+Q10339896,Q10339896,Portugal,1975,False,1970,False,Ricardo Costa,male,True
+Q10339905,O Táxi 9297,Portugal,1927,False,1920,True,Repórter X,male,True
+Q10340200,Q10340200,Portugal,1976,False,1970,False,,,False
+Q10340893,On the Side of the People,Portugal,1976,False,1970,True,,,False
+Q10341918,Os Crimes de Diogo Alves,Portugal,1911,False,1910,True,,,False
+Q10341924,Q10341924,Portugal,1976,False,1970,False,José Fonseca e Costa,male,True
+Q10342011,Os Lobos,Portugal,1923,False,1920,True,Rino Lupo,male,True
+Q10342302,Ossos,Portugal,1997,False,1990,True,Pedro Costa,male,True
+Q10342717,Oxalá,Portugal,1981,False,1980,True,António-Pedro Vasconcelos,male,True
+Q10345904,Q10345904,Portugal,1980,False,1980,False,Jorge Silva Melo,male,True
+Q10345906,Passagem por Lisboa,Portugal,1994,False,1990,True,Eduardo Geada,male,True
+Q10347987,Pela Razão Que Tem,Portugal,1976,False,1970,True,José Nascimento,male,True
+Q10348531,One Hundred Times Lost,Portugal,1973,False,1970,True,António-Pedro Vasconcelos,male,True
+Q10352009,Portugal S.A.,Portugal,2004,False,2000,True,Ruy Guerra,male,True
+Q10355914,Quaresma,Portugal,2003,False,2000,True,José Álvaro Morais,male,True
+Q10356126,Quem Espera por Sapatos de Defunto Morre Descalço,Portugal,1970,False,1970,True,João César Monteiro,male,True
+Q10356158,Who Are You?,Portugal,2001,False,2000,True,João Botelho,male,True
+Q10356183,Q10356183,Portugal,2004,False,2000,False,José Edgar Feldman,male,True
+Q10356198,Q10356198,Portugal,2010,False,2010,False,José Carlos de Oliveira,male,True
+Q10359574,Q10359574,Portugal,1975,False,1970,False,,,False
+Q10363066,Q10363066,Portugal,1927,False,1920,False,Repórter X,male,True
+Q10367049,Saltimbancos,Portugal,1951,False,1950,True,Manuel Guimarães,male,True
+Q10368344,Sapatos Pretos,Portugal,1998,False,1990,True,João Canijo,male,True
+Q10369191,Second Life,Portugal,2009,False,2000,True,Miguel Gaudêncio,male,True
+Q10369834,Q10369834,Portugal,2004,False,2000,False,Anna da Palma,female,True
+Q10370698,Q10370698,Portugal,1967,False,1960,False,António de Macedo,male,True
+Q10371545,Silvestre,Portugal,1981,False,1980,True,João César Monteiro,male,True
+Q10371717,Q10371717,Portugal,1985,False,1980,False,Manoel de Oliveira,male,True
+Q10371804,Sinais de Fogo,Portugal,1995,False,1990,True,Luís Filipe Rocha,male,True
+Q10372934,Q10372934,Portugal,1973,False,1970,False,Eduardo Geada,male,True
+Q10373317,Q10373317,Portugal,1951,False,1950,False,Perdigão Queiroga,male,True
+Q10373480,Sorte Nula,Portugal,2004,False,2000,True,Fernando Fragata,male,True
+Q10374054,Star Crossed,Portugal,2009,False,2000,True,Mark Heller,male,True
+Q10380211,Tentação,Portugal,1997,False,1990,True,Joaquim Leitão,male,True
+Q10380732,Terra Fria,Portugal,1992,False,1990,True,António Campos,male,True
+Q10380777,Q10380777,Portugal,1977,False,1970,False,José Nascimento,male,True
+Q10382599,Q10382599,Portugal,1924,False,1920,False,António Pinheiro,male,True
+Q10383695,Torre Bela,Portugal,1977,False,1970,True,Thomas Harlan,male,True
+Q10384510,Q10384510,Portugal,1975,False,1970,False,Ricardo Costa,male,True
+Q10385359,Tudo Isto É Fado,Portugal,2004,False,2000,True,Luís Galvão Teles,male,True
+Q10387319,Um Funeral à Chuva,Portugal,2010,False,2010,True,,,False
+Q10387384,A Shot in the Dark,Portugal,2005,False,2000,True,Leonel Vieira,male,True
+Q10387449,Tall Stories,Portugal,1988,False,1980,True,Joaquim Pinto,male,True
+Q10389169,Vanitas,Portugal,2004,False,2000,True,Paulo Rocha,male,True
+Q10389668,Magical Storm,Portugal,1949,False,1940,True,José Leitão de Barros,male,True
+Q10390078,Viagem aos Seios de Duília,Portugal,1964,False,1960,True,Carlos Hugo Christensen,male,True
+Q10391427,Q10391427,Portugal,1971,False,1970,False,António Campos,male,True
+Q10391615,Q10391615,Portugal,1965,False,1960,False,Augusto Fraga,male,True
+Q10392230,Viúva Rica Solteira Não Fica,Portugal,2006,False,2000,True,José Fonseca e Costa,male,True
+Q10394285,Xavier,Portugal,1992,False,1990,True,Manuel Mozos,male,True
+Q10394925,Q10394925,Portugal,2008,False,2000,False,Miguel Gonçalves Mendes,male,True
+Q10395526,Q10395526,Portugal,1976,False,1970,False,Ricardo Costa,male,True
+Q104671414,Ons,Portugal,2020,False,2020,True,Alfonso Zarauza,male,True
+Q104673728,Until Porn Do Us Part,Portugal,2018,False,2010,True,Jorge Pelicano,male,True
+Q105078348,Duma Vez Por Todas,Portugal,1987,False,1980,True,Joaquim Leitão,male,True
+Q1056888,Anxiety,Portugal,1998,False,1990,True,Manoel de Oliveira,male,True
+Q106097549,On the Tagus Border,Portugal,1949,False,1940,True,Henrique Campos,male,True
+Q106231282,O Primo Basílio,Portugal,1959,False,1950,True,António Lopes Ribeiro,male,True
+Q106542370,Altar,Portugal,2002,True,2000,True,Rita Azevedo Gomes,female,True
+Q106542733,Bem Bom,Portugal,2020,False,2020,True,Patrícia Sequeira,female,True
+Q106543278,Chantecler Atraiçoado,Portugal,1910,False,1910,True,,,False
+Q106546643,Q106546643,Portugal,1978,False,1970,False,José Álvaro Morais,male,True
+Q106547052,The Last Bath,Portugal,2020,False,2020,True,David Bonneville,male,True
+Q106548385,Zéfiro,Portugal,1993,False,1990,True,José Álvaro Morais,male,True
+Q106570576,Apparitions at Fatima,Portugal,1991,False,1990,True,Q3013883,male,True
+Q106602580,Our Consul in Havana,Portugal,2020,False,2020,True,Francisco Manso,male,True
+Q106718770,A Letter to the Future,Portugal,2011,False,2010,True,Renato Martins,male,True
+Q106810905,O movimento das coisas,Portugal,1985,False,1980,True,Manuela Serra,female,True
+Q107363544,Once There Was Brasília,Portugal,2017,False,2010,True,Adirley Queirós,male,True
+Q107534278,The Tsugua Diaries,Portugal,2021,False,2020,True,Maureen Fazendeiro; Miguel Gomes,female; male,True
+Q1085333,Christopher Columbus – The Enigma,Portugal,2007,False,2000,True,Manoel de Oliveira,male,True
+Q108806242,Roi Soleil,Portugal,2018,False,2010,True,Albert Serra,male,True
+Q108891116,Amor Fati,Portugal,2020,True,2020,True,Cláudia Varejão,female,True
+Q109315013,Black rose,Portugal,1993,False,1990,True,,,False
+Q109480972,O Castelo de Chocolate,Portugal,1923,False,1920,True,,,False
+Q110110709,Patrick,Portugal,2019,True,2010,True,Gonçalo Waddington,male,True
+Q110363314,Valentina,Portugal,2021,True,2020,True,Chelo Loureiro,female,True
+Q110820285,Striking Ground,Portugal,2022,False,2020,True,,,False
+Q110910146,Dry Ground Burning,Portugal,2022,False,2020,True,Adirley Queirós; Joana Pimenta,male; female,True
+Q110943971,Super Natural,Portugal,2022,False,2020,True,Jorge Jácome,male,True
+Q111207065,Our Children,Portugal,2019,True,2010,True,Maria de Medeiros,female,True
+Q111209750,The Empire,Portugal,2024,True,2020,True,Bruno Dumont,male,True
+Q111664847,Will-o'-the-Wisp,Portugal,2022,False,2020,True,João Pedro Rodrigues,male,True
+Q111686259,Pacifiction,Portugal,2022,True,2020,True,Albert Serra,male,True
+Q111705949,Q111705949,Portugal,2019,False,2010,False,,,False
+Q111821530,Nayola,Portugal,2022,True,2020,True,José Miguel Ribeiro,male,True
+Q111835495,Q111835495,Portugal,1998,False,1990,False,Catarina Mourão,female,True
+Q1125757,Pele,Portugal,2006,False,2000,True,Fernando Vendrell,male,True
+Q112614633,Twist of Fate,Portugal,2009,False,2000,True,Fernando Lopes,male,True
+Q112675132,Lisboa domiciliária,Portugal,2009,False,2000,True,Marta Pessoa,female,True
+Q112678873,Cartas de Angola,Portugal,2011,False,2010,True,Dulce Fernandes,female,True
+Q112684634,Warriors,Portugal,2011,False,2010,True,Marta Pessoa,female,True
+Q112705625,Q112705625,Portugal,2013,False,2010,False,,,False
+Q112707076,Q112707076,Portugal,2008,False,2000,False,Rui Simões,male,True
+Q112769280,"Natália, a Diva Trágicómica",Portugal,2011,False,2010,True,,,False
+Q112983146,Kolá San Jon é Festa di Kau Berdi,Portugal,2011,False,2010,True,Rui Simões,male,True
+Q113141487,A Janela (Maryalva Mix),Portugal,2001,False,2000,True,Edgar Pêra,male,True
+Q113196198,The Child,Portugal,2022,False,2020,True,,,False
+Q113290058,Q113290058,Portugal,2007,False,2000,False,António Escudeiro,male,True
+Q113327694,Peixe-Lua,Portugal,2000,False,2000,True,José Álvaro Morais,male,True
+Q1133651,Three Lives and Only One Death,Portugal,1996,False,1990,True,Raúl Ruiz,male,True
+Q113374622,Chasing Life,Portugal,2002,False,2000,True,Fernando Fragata,male,True
+Q113445602,Snu,Portugal,2019,False,2010,True,Patrícia Sequeira,female,True
+Q113471670,Everybody Loves Jeanne,Portugal,2022,False,2020,True,Céline Devaux,female,True
+Q113486726,Silêncio - Voices of Lisbon,Portugal,2020,True,2020,True,Celine Carlisle; Judit Kalmar,female; female,True
+Q113540618,The Infernal Machine,Portugal,2022,False,2020,True,,,False
+Q113635595,Wolf and Dog,Portugal,2022,False,2020,True,Cláudia Varejão,female,True
+Q113885711,Q113885711,Portugal,1994,False,1990,False,Joaquim Leitão,male,True
+Q113907251,"Goya, Carrière & the Ghost of Buñuel",Portugal,2023,False,2020,True,José Luis López-Linares,male,True
+Q114053904,My Grandfather's Demons,Portugal,2022,False,2020,True,Nuno Beato,male,True
+Q114088464,When the Waves Are Gone,Portugal,2022,False,2020,True,Lav Diaz,male,True
+Q114685226,Portugal's Mountains of Wonder,Portugal,2016,False,2010,True,,,False
+Q114703871,Mind Forward,Portugal,2019,False,2010,True,,,False
+Q114870014,The Open Body,Portugal,2022,False,2020,True,Ángeles Huerta,female,True
+Q1152657,Voyage to the Beginning of the World,Portugal,1997,False,1990,True,Manoel de Oliveira,male,True
+Q115274787,The Kegelstatt Trio,Portugal,2022,False,2020,True,Rita Azevedo Gomes,female,True
+Q1156365,Hollow City,Portugal,2004,False,2000,True,Maria João Ganga,female,True
+Q115908084,Tomorrow Is a Long Time,Portugal,2023,False,2020,True,,,False
+Q115941843,The Lighthouse Keepers,Portugal,1922,False,1920,True,Maurice Mariaud,male,True
+Q116154050,La Visita y Un Jardín secreto,Portugal,2022,False,2020,True,Irene M. Borrego,female,True
+Q116195096,"Ceuta, Prison By The Sea",Portugal,2012,True,2010,True,Jonathan Millet; Loïc Hecht,male; male,True
+Q116246102,Eureka,Portugal,2023,True,2020,True,Lisandro Alonso,male,True
+Q116411438,Bad Living,Portugal,2023,False,2020,True,João Canijo,male,True
+Q116450077,Living Bad,Portugal,2023,False,2020,True,João Canijo,male,True
+Q116687573,Remains of the Wind,Portugal,2022,False,2020,True,Tiago Guedes,male,True
+Q116690465,Curral De Moinas - The People's Bankers,Portugal,2022,False,2020,True,Miguel Cadilhe,male,True
+Q116752130,The Remnants of You,Portugal,2025,False,2020,True,Gala Gracia,female,True
+Q116762209,Body Rice,Portugal,2006,False,2000,True,Hugo Vieira da Silva,male,True
+Q11681362,El coche de pedales,Portugal,2004,False,2000,True,Ramón Barea,male,True
+Q11682483,The Gilded Cage,Portugal,2013,False,2010,True,Ruben Alves,male,True
+Q116974487,Ruínas,Portugal,2009,False,2000,True,Manuel Mozos,male,True
+Q117037495,Q117037495,Portugal,2009,False,2000,False,Manuel Mozos,male,True
+Q1170822,Our Lady of Fatima,Portugal,1951,False,1950,True,Rafael Gil,male,True
+Q1171531,Sleepwalking Land,Portugal,2007,False,2000,True,Teresa Prata,female,True
+Q117157221,Q117157221,Portugal,2006,False,2000,False,,,False
+Q117304914,Nação Valente,Portugal,2022,False,2020,True,Carlos Conceição,male,True
+Q117352577,Q117352577,Portugal,2003,False,2000,False,Catarina Alves Costa,female,True
+Q117352956,Misbegotten,Portugal,2007,False,2000,True,João Canijo,male,True
+Q117354063,Q117354063,Portugal,2012,False,2010,False,João Canijo,male,True
+Q117409022,The Portuguese Woman,Portugal,2018,False,2010,True,Rita Azevedo Gomes,female,True
+Q117469261,Passeio com Johnny Guitar,Portugal,1996,False,1990,True,João César Monteiro,male,True
+Q117469262,Lettera Amorosa,Portugal,1995,False,1990,True,João César Monteiro,male,True
+Q117470278,Índia,Portugal,2022,False,2020,True,Telmo Churro,male,True
+Q117471927,"Sophia, In Her Own Words",Portugal,2019,False,2010,True,Manuel Mozos,male,True
+Q117474125,The Silence,Portugal,2020,False,2020,True,,,False
+Q117474366,Correspondences,Portugal,2016,False,2010,True,Rita Azevedo Gomes,female,True
+Q117536621,Alma Viva,Portugal,2022,True,2020,True,Cristèle Alves Meira,female,True
+Q117864714,A Tempestade da Terra,Portugal,1997,False,1990,True,Fernando d’Almeida e Silva,male,True
+Q118196526,The Suspect,Portugal,1999,False,1990,True,José Miguel Ribeiro,male,True
+Q118640040,Beat Girl,Portugal,2013,False,2010,True,,,False
+Q11895713,Canned Dreams,Portugal,2012,False,2010,True,Katja Gauriloff,female,True
+Q119143490,The Bride,Portugal,2023,False,2020,True,Sérgio Tréfaut,male,True
+Q119290657,A Ilha De Moraes,Portugal,1984,False,1980,True,Paulo Rocha,male,True
+Q120188866,Teresa,Portugal,2023,True,2020,True,Paula Ortiz,female,True
+Q120493926,The Practice,Portugal,2023,False,2020,True,Martín Rejtman,male,True
+Q120630076,Great Yarmouth: Provisional Figures,Portugal,2023,False,2020,True,Marco Martins,male,True
+Q120648855,The Rye Horn,Portugal,2023,True,2020,True,Jaione Camborda,female,True
+Q121071213,Foremost by Night,Portugal,2023,False,2020,True,Víctor Iriarte,male,True
+Q121290759,La manzana de oro,Portugal,2022,False,2020,True,Jaime Chávarri,male,True
+Q121378716,Légua,Portugal,2023,False,2020,True,Filipa Reis; João Miller Guerra,female; male,True
+Q121391717,The Human Surge 3,Portugal,2023,False,2020,True,Eduardo Williams,male,True
+Q1215052,Tombs of the Blind Dead,Portugal,1972,True,1970,True,Amando de Ossorio Rodríguez,male,True
+Q1215146,Lisboners,Portugal,2004,False,2000,True,Sérgio Tréfaut,male,True
+Q1216153,Women,Portugal,1997,True,1990,True,Luís Galvão Teles,male,True
+Q121792074,Toll,Portugal,2023,True,2020,True,Carolina Markowicz,female,True
+Q121879464,They Shot the Piano Player,Portugal,2023,False,2020,True,Fernando Trueba; Javier Mariscal,male; male,True
+Q1219569,The Soft Skin,Portugal,1964,False,1960,True,François Truffaut,male,True
+Q122329533,City of Wind,Portugal,2023,True,2020,True,Lkhagvadulam Purev-Ochir,female,True
+Q122839373,O Condenado,Portugal,1921,False,1920,True,,,False
+Q123138211,Q123138211,Portugal,2023,False,2020,False,Joaquín Mazón,male,True
+Q123155314,Q123155314,Portugal,1995,False,1990,False,António da Cunha Telles,male,True
+Q123259,Abraham's Valley,Portugal,1993,True,1990,True,Manoel de Oliveira,male,True
+Q123469669,Three Mirrors,Portugal,1947,False,1940,True,Ladislao Vajda,male,True
+Q123560730,Cesária Évora,Portugal,2022,True,2020,True,Ana Sofia Fonseca,female,True
+Q123616086,Pathos Ethos Logos,Portugal,2021,False,2020,True,Joaquim Pinto,male,True
+Q12385397,"Carmiña, flor de Galicia",Portugal,1926,False,1920,True,Rino Lupo,male,True
+Q123984847,Cidade Rabat,Portugal,2023,False,2020,True,Susana Nobre,female,True
+Q124045111,Q124045111,Portugal,2024,False,2020,False,,,False
+Q124100895,The Buriti Flower,Portugal,2024,False,2020,True,João Salaviza; Renée Nader Messora,male; female,True
+Q124308183,The Worst Man in London,Portugal,2024,False,2020,True,Rodrigo Areias,male,True
+Q124313086,A Bela América,Portugal,2023,False,2020,True,António Ferreira,male,True
+Q124331620,Grand Tour,Portugal,2024,True,2020,True,Miguel Gomes,male,True
+Q124334205,Amelia's Children,Portugal,2023,True,2020,True,Gabriel Abrantes,male,True
+Q124356037,Hands in the Fire,Portugal,2024,False,2020,True,Margarida Gil,female,True
+Q124637939,Blue Breath,Portugal,2018,True,2010,True,Rodrigo Areias,male,True
+Q125457384,Misericordia,Portugal,2024,False,2020,True,Alain Guiraudie,male,True
+Q125482116,Revolução sem sangue,Portugal,2024,False,2020,True,,,False
+Q125728861,Artificial Justice,Portugal,2024,False,2020,True,Simón Casal,male,True
+Q126123,Aspern,Portugal,1985,False,1980,True,Eduardo de Gregorio,male,True
+Q1276647,Q1276647,Portugal,1979,False,1970,False,Jorge Silva Melo; Solveig Nordlund,male; female,True
+Q127871658,On Falling,Portugal,2024,False,2020,True,Laura Carreira,female,True
+Q128652693,Q128652693,Portugal,2019,False,2010,False,,,False
+Q128725018,Q128725018,Portugal,2018,False,2010,False,Dennis Berry,male,True
+Q128797282,Q128797282,Portugal,1999,False,1990,False,José Álvaro Morais,male,True
+Q128826946,May I Speak with the Enemy?,Portugal,2024,False,2020,True,Alexis Morante,male,True
+Q129051,Lines of Wellington,Portugal,2012,False,2010,True,Raúl Ruiz; Valeria Sarmiento,male; female,True
+Q1301123,"Fado, a Singer's Story",Portugal,1947,False,1940,True,Perdigão Queiroga,male,True
+Q130269583,Manas,Portugal,2024,True,2020,True,Marianna Brennand,female,True
+Q1303143,Eccentricities of a Blonde-haired Girl,Portugal,2009,True,2000,True,Manoel de Oliveira,male,True
+Q130335733,Hanami,Portugal,2024,False,2020,True,Denise Fernandes,female,True
+Q130354631,Afternoons of Solitude,Portugal,2024,True,2020,True,Albert Serra,male,True
+Q1305640,Um Adeus Português,Portugal,1986,False,1980,True,João Botelho,male,True
+Q130739654,Q130739654,Portugal,2027,False,2020,False,Petr Vodička,male,True
+Q131143492,Fire of Wind,Portugal,2024,False,2020,True,Marta Mateus,female,True
+Q131187384,Q131187384,Portugal,2022,False,2020,False,João Rosas,male,True
+Q131214088,Barbs Wastelands,Portugal,2017,False,2010,True,Marta Mateus,female,True
+Q131318993,"Something Old, Something New, Something Borrowed",Portugal,2024,False,2020,True,Hernán Rosselli,male,True
+Q131452092,Banzo,Portugal,2024,False,2020,True,Margarida Cardoso,female,True
+Q131754250,Q131754250,Portugal,2024,False,2020,False,,,False
+Q131990857,Two Times João Liberada,Portugal,2025,False,2020,True,Paula Tomás Marques,female,True
+Q132063738,The Memory of Butterflies,Portugal,2025,False,2020,True,Tatiana Fuentes Sadowski,female,True
+Q132146677,Q132146677,Portugal,2001,False,2000,False,José Álvaro Morais,male,True
+Q132643455,With God Against Man,Portugal,2014,False,2010,True,,,False
+Q132995716,Don't Read This on a Plane,Portugal,2020,True,2020,True,,,False
+Q133231408,The Portuguese House,Portugal,2025,False,2020,True,Avelina Prat García,female,True
+Q133255799,The Village of Lovers,Portugal,2023,False,2020,True,,,False
+Q133852600,Magellan,Portugal,2025,False,2020,True,Lav Diaz,male,True
+Q133934495,It Is at This Point That the Need to Write History Arises,Portugal,2024,False,2020,True,Constanze Ruhm,female,True
+Q1341783,Os Verdes Anos,Portugal,1963,False,1960,True,Paulo Rocha,male,True
+Q134301427,Q134301427,Portugal,2006,False,2000,False,Edgar Pêra,male,True
+Q134469893,I Only Rest in the Storm,Portugal,2025,False,2020,True,Pedro Pinho,male,True
+Q134592330,Honeyjoon,Portugal,2025,False,2020,True,,,False
+Q13475505,País do Desejo,Portugal,2012,False,2010,True,Paulo Caldas,male,True
+Q135108162,The Luminous Life,Portugal,2025,False,2020,True,,,False
+Q135298292,Q135298292,Portugal,2025,False,2020,False,Alexandra Petit; Antoine Rossi; Auguste Lefort; Daniela Comarella; Erik Verkerk; Flore Dechorgnat; Joost van den Bosch; Martin Robic; Martin Smatana; Philipp Comarella; Rodrigo Goulão de Sousa; Simon Griesser; Solène Bossebeouf; Tamerlan Bekmurzayev; Tiphaine Klein; Veronika Zacharová,male; male; male; female; male; female; male; male; male; male; male; male; female; male; female; female,True
+Q135400524,Q135400524,Portugal,2025,False,2020,False,Paolo Marinou-Blanco,male,True
+Q135509079,The Seasons,Portugal,2025,False,2020,True,,,False
+Q1355564,Ala-Arriba!,Portugal,1942,False,1940,True,José Leitão de Barros,male,True
+Q136088779,To Our Friends,Portugal,2024,False,2020,True,Adrián Orr,male,True
+Q136522783,Last Night I Conquered the City of Thebes,Portugal,2025,False,2020,True,Gabriel Azorín,male,True
+Q1366552,The Murmuring Coast,Portugal,2004,False,2000,True,Margarida Cardoso,female,True
+Q136658247,Nothing to See Here,Portugal,2022,False,2020,True,Nicolas Bouchez,male,True
+Q136690264,Q136690264,Portugal,2025,False,2020,False,Q136673488,female,True
+Q136756129,Q136756129,Portugal,2025,False,2020,False,Eugène Green,male,True
+Q1367663,Operação Outono,Portugal,2012,False,2010,True,Bruno de Almeida,male,True
+Q136768510,Q136768510,Portugal,1982,False,1980,False,Q136768641,male,True
+Q137218241,Off the Beaten Track,Portugal,2024,False,2020,True,Hugo Vieira da Silva,male,True
+Q137701336,Solo querían jugar,Portugal,2026,False,2020,True,Marta Díaz de Lope Díaz,female,True
+Q1377566,Visions of Europe,Portugal,2004,False,2000,True,Aisling Walsh; Aki Kaurismäki; Andy Bausch; Arvo Iho; Barbara Albert; Béla Tarr; Christoffer Boe; Christos Georgiou; Damjan Kozole; Fatih Akin; Francesca Comencini; Jan Troell; Konstantinos Giannaris; Laila Pakalniņa; Martin Šulík; Małgorzata Szumowska; Miguel Hermoso; Peter Greenaway; Saša Gedeon; Stijn Coninx; Teresa Villaverde; Theo van Gogh; Tony Gatlif; Ágnes Hranitzky; Šarūnas Bartas,female; male; male; male; female; male; male; male; male; male; female; male; male; female; male; female; male; male; male; male; female; male; male; female; male,True
+Q137782651,Narciso,Portugal,2026,False,2020,True,Marcelo Martinessi,male,True
+Q137784704,The Reclamation of Abberossa,Portugal,2026,False,2020,True,,,False
+Q138522461,Q138522461,Portugal,2022,False,2020,False,,,False
+Q138663302,Q138663302,Portugal,2014,False,2010,False,Monica Sweet,female,True
+Q138763165,Q138763165,Portugal,2025,False,2020,False,,,False
+Q138864249,Divine Punishment,Portugal,2026,False,2020,True,Pablo Guerrero,male,True
+Q1391920,Fados,Portugal,2007,False,2000,True,Carlos Saura,male,True
+Q139503001,Q139503001,Portugal,2024,False,2020,False,António Borges Correia,male,True
+Q139505308,Aquí,Portugal,2026,False,2020,True,Tiago Guedes,male,True
+Q139575635,Usi dorogi privodiat do tebe,Portugal,2025,False,2020,True,,,False
+Q139674083,Red Rocks,Portugal,2026,False,2020,True,Bruno Dumont,male,True
+Q140046872,Q140046872,Portugal,2026,False,2020,False,Manuel Castelao,male,True
+Q140267188,Q140267188,Portugal,2020,False,2020,False,Marta Pessoa,female,True
+Q140589433,Strong Waters,Portugal,2018,False,2010,True,Mónica Baptista,female,True
+Q141108488,Q141108488,Portugal,2026,False,2020,False,Tomas Portella,male,True
+Q141638408,The Loneliness of Lizards,Portugal,2025,False,2020,True,Inês Nunes,female,True
+Q1418431,Fintar o Destino,Portugal,1997,False,1990,True,Fernando Vendrell,male,True
+Q1421381,Q1421381,Portugal,2010,False,2010,False,Jorge António,male,True
+Q1424930,The Uncertainty Principle,Portugal,2002,False,2000,True,Manoel de Oliveira,male,True
+Q1442230,God's Comedy,Portugal,1995,False,1990,True,João César Monteiro,male,True
+Q1442241,The Divine Comedy,Portugal,1991,False,1990,True,Manoel de Oliveira,male,True
+Q14616749,What Now? Remind Me,Portugal,2013,False,2010,True,Joaquim Pinto,male,True
+Q1475437,Futebol de Causas,Portugal,2009,False,2000,True,,,False
+Q14784591,Real Playing Game,Portugal,2013,False,2010,True,Tino Navarro,male,True
+Q1485778,Journey to Portugal,Portugal,2011,True,2010,True,Sérgio Tréfaut,male,True
+Q1496627,April Captains,Portugal,2000,False,2000,True,Maria de Medeiros,female,True
+Q15403805,Balas & Bolinhos - O Último Capítulo,Portugal,2012,False,2010,True,Luís Ismael,male,True
+Q15731572,Longwave,Portugal,2013,True,2010,True,Lionel Baier,male,True
+Q15808718,Estrada de Palha,Portugal,2011,False,2010,True,Rodrigo Areias,male,True
+Q1582911,O Candidato Vieira,Portugal,2005,False,2000,True,Bruno de Almeida,male,True
+Q15836201,Q15836201,Portugal,2008,False,2000,False,Catarina Alves Costa,female,True
+Q15837215,Q15837215,Portugal,2008,False,2000,False,Fernando Lopes,male,True
+Q15837755,Q15837755,Portugal,2003,False,2000,False,,,False
+Q15843968,Q15843968,Portugal,1958,False,1950,False,Augusto Fraga,male,True
+Q15845962,Amor & Cia,Portugal,1998,False,1990,True,Helvécio Ratton,male,True
+Q16057724,7 Pecados Rurais,Portugal,2013,False,2010,True,Nicolau Breyner,male,True
+Q16141948,A Bomba,Portugal,2001,False,2000,True,Leonel Vieira,male,True
+Q16142162,My Little Seamstress,Portugal,1958,False,1950,True,Manuel Guimarães,male,True
+Q16142309,The Sword and the Rose,Portugal,2010,False,2010,True,João Nicolau,male,True
+Q16142319,Q16142319,Portugal,1977,False,1970,False,Luís Gaspar,male,True
+Q16142432,A Filha,Portugal,2003,False,2000,True,Solveig Nordlund,female,True
+Q16142962,"20,13",Portugal,2006,False,2000,True,Joaquim Leitão,male,True
+Q16143070,Q16143070,Portugal,1975,False,1970,False,Ricardo Costa,male,True
+Q16143389,Night Passage,Portugal,2003,False,2000,True,Luís Filipe Rocha,male,True
+Q16143452,48,Portugal,2010,False,2010,True,Susana de Sousa Dias,female,True
+Q16143825,Q16143825,Portugal,1975,False,1970,False,,,False
+Q16143854,Q16143854,Portugal,2013,False,2010,False,,,False
+Q16143920,Q16143920,Portugal,1982,False,1980,False,Luís Galvão Teles,male,True
+Q16143926,The Invisible Life,Portugal,2013,False,2010,True,Vítor Gonçalves,male,True
+Q16143979,A Vizinha do Lado,Portugal,1945,False,1940,True,António Lopes Ribeiro,male,True
+Q16144801,98 Octanas,Portugal,2006,False,2000,True,Fernando Lopes,male,True
+Q16144807,Q16144807,Portugal,2010,False,2010,False,Carlos Alberto M.D. Gomes,male,True
+Q16258055,No Trace of Sin,Portugal,1983,False,1980,True,José Fonseca e Costa,male,True
+Q1634688,I'm Going Home,Portugal,2001,False,2000,True,Manoel de Oliveira,male,True
+Q1636549,The Hero,Portugal,2004,False,2000,True,Zézé Gamboa,male,True
+Q16466116,Ties and Ropes,Portugal,2001,False,2000,True,Herman Van Eyken,unknown,True
+Q16466126,Black Dju,Portugal,1996,True,1990,True,Pol Cruchten,male,True
+Q1648078,O Leão da Estrela,Portugal,1947,False,1940,True,Arthur Duarte,male,True
+Q16488794,Almas penadas,Portugal,2012,False,2010,True,,,False
+Q16489880,Love of Perdition,Portugal,1943,False,1940,True,António Lopes Ribeiro,male,True
+Q16490396,André Valente,Portugal,2004,False,2000,True,Catarina Ruivo,female,True
+Q16493032,Applied Magnetics,Portugal,1975,False,1970,True,,,False
+Q16493818,As Armas e o Povo,Portugal,1975,False,1970,True,Alberto Seixas Santos; António Escudeiro; António da Cunha Telles; António de Macedo; António-Pedro Vasconcelos; Artur Semedo; Eduardo Geada; Fernando Lopes; Fernando Matos Silva; Glauber Rocha; José Fonseca e Costa; José de Sá Caetano; João Matos Silva; Luís Galvão Teles; Manuel Costa e Silva; Ricardo Costa,male; male; male; male; male; male; male; male; male; male; male; male; male; male; male; male,True
+Q16494747,Assalto ao Santa Maria,Portugal,2010,False,2010,True,Francisco Manso,male,True
+Q16494767,Assim assim,Portugal,2012,False,2010,True,Sérgio Graciano,male,True
+Q16495398,Autografia,Portugal,2004,False,2000,True,Miguel Gonçalves Mendes,male,True
+Q16496182,Bairro,Portugal,2013,False,2010,True,Jorge Cardoso; José Manuel Fernandes; Lourenço de Mello; Ricardo Inácio,male; male; unknown; unknown,True
+Q16496301,A Balada de Praia do Cães,Portugal,1987,False,1980,True,José Fonseca e Costa,male,True
+Q16496329,Bullets & Cookies: The Return,Portugal,2004,False,2000,True,Luís Ismael,male,True
+Q16497441,Q16497441,Portugal,1983,False,1980,False,Lauro António,male,True
+Q16502055,Bom Povo Português,Portugal,1981,False,1980,True,Rui Simões,male,True
+Q16627184,Cadences obstinées,Portugal,2013,False,2010,True,Fanny Ardant,female,True
+Q16652696,The Children's Republic,Portugal,2012,False,2010,True,Flora Gomes,male,True
+Q16736256,Bridges of Sarajevo,Portugal,2014,False,2010,True,Aida Begić; Angela Schanelec; Cristi Puiu; Isild Le Besco; Jean-Luc Godard; Kamen Kalev; Leonardo Di Costanzo; Marc Recha; Pedro Costa; Sergei Loznitsa; Teresa Villaverde; Ursula Meier; Vincenzo Marra; Vladimir Perišić,female; female; male; female; male; male; male; male; male; male; female; female; male; male,True
+Q16741153,3x3D,Portugal,2013,True,2010,True,Edgar Pêra; Jean-Luc Godard; Peter Greenaway,male; male; male,True
+Q16741202,Cinesapiens,Portugal,2013,False,2010,True,Edgar Pêra,male,True
+Q1674195,A Canção de Lisboa,Portugal,1933,False,1930,True,José Ângelo Cottinelli Telmo,male,True
+Q1675466,Belle Époque,Portugal,1992,True,1990,True,Fernando Trueba,male,True
+Q1678427,Secrets of the Heart,Portugal,1997,False,1990,True,Montxo Armendáriz,male,True
+Q16851499,A Canção da Saudade,Portugal,1964,False,1960,True,Henrique Campos,male,True
+Q16949935,Collider,Portugal,2013,False,2010,True,Jason Butler,unknown,True
+Q16952066,Black Out p.s. Red Out,Portugal,1998,False,1990,True,Menelaos Karamaghiolis,male,True
+Q16977155,Complexo - Universo Paralelo,Portugal,2011,False,2010,True,Mário Patrocínio,unknown,True
+Q17006104,Capitão Falcão,Portugal,2015,False,2010,True,João Leitão,male,True
+Q17032000,Sei Lá,Portugal,2014,False,2010,True,Joaquim Leitão,male,True
+Q17040489,O Ornitólogo,Portugal,2016,True,2010,True,João Pedro Rodrigues,male,True
+Q17053260,Road 47,Portugal,2013,False,2010,True,Vicente Ferraz,male,True
+Q17053959,The Great Kilapy,Portugal,2012,False,2010,True,Zézé Gamboa,male,True
+Q17060450,Os Gatos Não Têm Vertigens,Portugal,2014,False,2010,True,António-Pedro Vasconcelos,male,True
+Q17060472,Os Maias: Cenas da Vida Romântica,Portugal,2014,False,2010,True,João Botelho,male,True
+Q1709746,José and Pilar,Portugal,2010,False,2010,True,Miguel Gonçalves Mendes,male,True
+Q1712241,Sinfonía erótica,Portugal,1979,False,1970,True,Jesús Franco,male,True
+Q17168605,Q17168605,Portugal,2014,False,2010,False,Manoel de Oliveira,male,True
+Q17168607,Q17168607,Portugal,2009,False,2000,False,Carlos Alberto M.D. Gomes,male,True
+Q17168618,Budapest,Portugal,2009,False,2000,True,Walter Carvalho,male,True
+Q17168620,Bushy Mush,Portugal,2007,False,2000,True,Carlos Coelho da Silva,male,True
+Q17168680,Song of the Street,Portugal,1950,False,1950,True,Henrique Campos,male,True
+Q17168693,Q17168693,Portugal,2001,False,2000,False,Tiago Guedes,male,True
+Q17168699,Chá Forte com Limão,Portugal,1993,False,1990,True,António de Macedo,male,True
+Q17168701,Chaimite,Portugal,1953,False,1950,True,Jorge Brum do Canto,male,True
+Q17168772,Living On,Portugal,1976,False,1970,True,António da Cunha Telles,male,True
+Q17168777,Q17168777,Portugal,1977,False,1970,False,José Nascimento,male,True
+Q17168781,El Contrato,Portugal,2009,False,2000,True,Nicolau Breyner,male,True
+Q17168784,Q17168784,Portugal,1975,False,1970,False,Luís Galvão Teles,male,True
+Q17168806,Q17168806,Portugal,2001,False,2000,False,,,False
+Q17168809,É o Amor,Portugal,2013,False,2010,True,João Canijo,male,True
+Q17168818,A Estrangeira,Portugal,1983,False,1980,True,João Mário Grilo,male,True
+Q17168839,Q17168839,Portugal,1979,False,1970,False,António de Macedo,male,True
+Q17168887,A Morte de Carlos Gardel,Portugal,2011,False,2010,True,Solveig Nordlund,female,True
+Q17168891,The Woman Who Believed She Was President of the United States,Portugal,2003,False,2000,True,João Botelho,male,True
+Q17168935,Os três da vida airada,Portugal,1952,False,1950,True,Perdigão Queiroga,male,True
+Q17168944,Q17168944,Portugal,2010,False,2010,False,,,False
+Q17168954,As Pupilas do Senhor Reitor,Portugal,1935,False,1930,True,José Leitão de Barros,male,True
+Q17168977,Q17168977,Portugal,1917,False,1910,False,António Leal,male,True
+Q17168979,Q17168979,Portugal,1977,False,1970,False,José de Sá Caetano,male,True
+Q17168983,A Santa Alianca,Portugal,1977,False,1970,True,Eduardo Geada,male,True
+Q17168998,In the Shadow of the Vultures,Portugal,1997,False,1990,True,Leonel Vieira,male,True
+Q17169007,A Teia de Gelo,Portugal,2012,False,2010,True,Nicolau Breyner,male,True
+Q17280266,Q17280266,Portugal,1897,False,1890,False,,,False
+Q17318075,Q17318075,Portugal,1975,False,1970,False,Fernando Lopes,male,True
+Q17318140,Q17318140,Portugal,1975,False,1970,False,António de Macedo,male,True
+Q1732603,Linha Vermelha,Portugal,2011,False,2010,True,,,False
+Q1741224,"Quilas, the Bad of the Picture",Portugal,1980,False,1980,True,José Fonseca e Costa,male,True
+Q1748666,Tabu,Portugal,2012,False,2010,True,Miguel Gomes,male,True
+Q17632645,The Wolf of the West Coast,Portugal,2002,False,2000,True,Hugo Santiago,male,True
+Q18125702,Horse Money,Portugal,2014,True,2010,True,Pedro Costa,male,True
+Q18126314,João Ratão,Portugal,1940,False,1940,True,Jorge Brum do Canto,male,True
+Q18128189,A Moral Conjugal,Portugal,2012,False,2010,True,Artur Serra Araújo,unknown,True
+Q18235298,Centro Histórico,Portugal,2012,False,2010,True,Aki Kaurismäki; Manoel de Oliveira; Pedro Costa; Víctor Erice,male; male; male; male,True
+Q18246731,Q18246731,Portugal,2014,False,2010,False,Frederico Corado,male,True
+Q18246779,Q18246779,Portugal,1994,False,1990,False,Frederico Corado,male,True
+Q18280202,Q18280202,Portugal,1924,False,1920,False,Maurice Mariaud,male,True
+Q1828040,Q1828040,Portugal,1998,False,1990,False,Fernando Lopes,male,True
+Q18280998,Q18280998,Portugal,2000,False,2000,False,Frederico Corado,male,True
+Q18290882,"See You Tomorrow, Mario",Portugal,1994,False,1990,True,Solveig Nordlund,female,True
+Q18331525,Q18331525,Portugal,1924,False,1920,False,Maurice Mariaud; Roger Lion,male; male,True
+Q18467533,The Stone Raft,Portugal,2002,False,2000,True,George Sluizer,male,True
+Q18480268,Q18480268,Portugal,1975,False,1970,False,Rogério Ceitil,male,True
+Q18702678,El marqués,Portugal,1965,False,1960,True,Niels West-Larsen,male,True
+Q18760874,Banana Motherfucker,Portugal,2011,False,2010,True,Fernando Alle; Pedro Florêncio,unknown; unknown,True
+Q18788457,Painless,Portugal,2012,True,2010,True,Juan Carlos Medina,male,True
+Q18962333,Backlight,Portugal,2010,False,2010,True,Fernando Fragata,male,True
+Q1918038,Ma Mère,Portugal,2004,False,2000,True,Christophe Honoré,male,True
+Q19364043,The Holy Queen,Portugal,1947,False,1940,True,Henrique Campos; Rafael Gil,male; male,True
+Q19572060,Hard Times,Portugal,1988,True,1980,True,João Botelho,male,True
+Q19572955,Mau Mau Maria,Portugal,2014,False,2010,True,José Alberto Pinheiro,male,True
+Q19581437,Rasganço,Portugal,2001,False,2000,True,Raquel Freire,female,True
+Q19600056,Three Palm Trees,Portugal,1994,False,1990,True,João Botelho,male,True
+Q19600316,Virados do Avesso,Portugal,2014,False,2010,True,Edgar Pêra,male,True
+Q19709539,Um Homem do Ribatejo,Portugal,1946,False,1940,True,Henrique Campos,male,True
+Q1973007,Inconscientes,Portugal,2004,False,2000,True,Joaquín Oristrell,male,True
+Q19999778,Q19999778,Portugal,1963,False,1960,False,Artur Ramos,male,True
+Q2006310,Não me importava morrer se houvesse Guitarras no Céu,Portugal,2012,False,2010,True,Tiago Pereira,male,True
+Q2008302,O Cerco,Portugal,1970,False,1970,True,António da Cunha Telles,male,True
+Q2008315,O Costa do Castelo,Portugal,1943,False,1940,True,Arthur Duarte,male,True
+Q2008328,Light Drops,Portugal,2002,False,2000,True,Fernando Vendrell,male,True
+Q2008345,O Sabor do Leite Creme,Portugal,2012,False,2010,True,Hiroatsu Suzuki,unknown,True
+Q200981,Pedro Só,Portugal,1972,False,1970,True,Alfredo Tropa,male,True
+Q2052114,"Páre, Escute, Olhe",Portugal,2009,False,2000,True,Jorge Pelicano,male,True
+Q2053044,Word and Utopia,Portugal,2000,False,2000,True,Manoel de Oliveira,male,True
+Q2059128,Sweet Nightmare,Portugal,1998,False,1990,True,Fernando Fragata,male,True
+Q20649595,The Return of José do Telhado,Portugal,1949,False,1940,True,Armando de Miranda,male,True
+Q20649843,José do Telhado,Portugal,1945,False,1940,True,Armando de Miranda,male,True
+Q20756922,Mother's Wish,Portugal,2015,False,2010,True,Joonas Berghäll,male,True
+Q20756984,Olmo and The Seagull,Portugal,2014,False,2010,True,Lea Glob; Petra Costa,female; female,True
+Q20789207,Longing Nights,Portugal,2013,False,2010,True,,,False
+Q2084721,The Fifth Empire,Portugal,2004,False,2000,True,Manoel de Oliveira,male,True
+Q2085076,The Satin Slipper,Portugal,1985,False,1980,True,Manoel de Oliveira,male,True
+Q2091372,A Caixa,Portugal,1994,False,1990,True,Manoel de Oliveira,male,True
+Q2091395,Benilde or the Virgin Mother,Portugal,1975,False,1970,True,Manoel de Oliveira,male,True
+Q2091425,Past and Present,Portugal,1972,False,1970,True,Manoel de Oliveira,male,True
+Q2091643,Amor de Perdição,Portugal,1978,False,1970,True,Manoel de Oliveira,male,True
+Q2091696,Day of Despair,Portugal,1992,False,1990,True,Manoel de Oliveira,male,True
+Q2091766,O Pão,Portugal,1959,False,1950,True,Manoel de Oliveira,male,True
+Q2091781,Visit or Memories and Confessions,Portugal,1982,False,1980,True,Manoel de Oliveira,male,True
+Q2091800,Rite of Spring,Portugal,1963,False,1960,True,Manoel de Oliveira,male,True
+Q2095178,The Man Who Killed Don Quixote,Portugal,2018,True,2010,True,Terry Gilliam,male,True
+Q21035779,"Outro País: Memórias, Sonhos, Ilusões... Portugal 1974/1975",Portugal,2000,False,2000,True,Sérgio Tréfaut,male,True
+Q21089136,The Winter in Lisbon,Portugal,1991,False,1990,True,José Antonio Zorrilla,male,True
+Q21198403,Anquanto la Lhéngua fur Cantada,Portugal,2012,False,2010,True,João Botelho,male,True
+Q21267058,A Morgadinha dos Canaviais,Portugal,1949,False,1940,True,,,False
+Q21336673,O Leão da Estrela,Portugal,2015,False,2010,True,Leonel Vieira,male,True
+Q21336772,A Uma Hora Incerta,Portugal,2015,False,2010,True,Carlos Saboga,male,True
+Q21337097,O Pátio das Cantigas,Portugal,2015,False,2010,True,Leonel Vieira,male,True
+Q21946870,Love and Tiny Toes,Portugal,1992,False,1990,True,Luís Filipe Rocha,male,True
+Q21999953,A Ilha dos Escravos,Portugal,2008,False,2000,True,Francisco Manso,male,True
+Q21999973,Alto Bairro,Portugal,2014,False,2010,True,Rui Simões,male,True
+Q21999977,Amor Impossível,Portugal,2015,False,2010,True,António-Pedro Vasconcelos,male,True
+Q22000022,Bobô,Portugal,2013,False,2010,True,Inês Oliveira,female,True
+Q22000032,Carlos do Carmo: Um Homem no Mundo,Portugal,2014,False,2010,True,Ivan Dias,unknown,True
+Q22000072,Crime,Portugal,2015,False,2010,True,,,False
+Q22000187,João Bénard da Costa - Others will love the Things I loved,Portugal,2014,False,2010,True,Manuel Mozos,male,True
+Q22000274,Q22000274,Portugal,2012,False,2010,False,,,False
+Q22000299,Q22000299,Portugal,1958,False,1950,False,Henrique Campos,male,True
+Q22000305,O Primeiro Verão,Portugal,2014,False,2010,True,Adriano Mendes,unknown,True
+Q22000329,Q22000329,Portugal,2014,False,2010,False,,,False
+Q22000339,Pára-me de repente o pensamento,Portugal,2014,False,2010,True,Jorge Pelicano,male,True
+Q22000347,Portugal - Um Dia de Cada Vez,Portugal,2015,False,2010,True,João Canijo,male,True
+Q22000363,"Se Eu Fosse Ladrão, Roubava",Portugal,2011,False,2010,True,Paulo Rocha,male,True
+Q22000414,Volta à Terra,Portugal,2014,False,2010,True,João Pedro Plácido,male,True
+Q22000419,Q22000419,Portugal,2015,False,2010,False,,,False
+Q22000427,Q22000427,Portugal,2011,False,2010,False,Aya Koretzky,female,True
+Q22000435,Yvone Kane,Portugal,2014,False,2010,True,Margarida Cardoso,female,True
+Q22074976,Letters from War,Portugal,2016,False,2010,True,Ivo Ferreira,male,True
+Q2249047,The Letter,Portugal,1999,False,1990,True,Manoel de Oliveira,male,True
+Q2249387,Street of No Return,Portugal,1989,False,1980,True,Samuel Fuller,male,True
+Q22810705,Jogo de Damas,Portugal,2015,False,2010,True,Patrícia Sequeira,female,True
+Q2346467,Mysteries of Lisbon,Portugal,2010,False,2010,True,Raúl Ruiz,male,True
+Q23666923,Swans,Portugal,2011,False,2010,True,Hugo Vieira da Silva,male,True
+Q2367517,Los dioses de verdad tienen huesos,Portugal,2010,False,2010,True,Belén Santos; David Alfaro,female; male,True
+Q23709812,Q23709812,Portugal,2007,False,2000,False,Frederico Corado,male,True
+Q23709813,Graça Lobo Dois Pontos,Portugal,2006,False,2000,True,Frederico Corado,male,True
+Q23709822,An Outpost of Progress,Portugal,2016,False,2010,True,Hugo Vieira da Silva,male,True
+Q23806761,Reconversion,Portugal,2012,False,2010,True,Thom Andersen,male,True
+Q23817425,Montanha,Portugal,2015,False,2010,True,João Salaviza,male,True
+Q23899070,O Costa d'África,Portugal,1954,False,1950,True,João Mendes,male,True
+Q23899071,Mio Pang Fei,Portugal,2014,False,2010,True,,,False
+Q23899072,Songs from the North,Portugal,2014,False,2010,True,Soon-Mi Yoo,unknown,True
+Q23899073,Grazing the Sky,Portugal,2013,False,2010,True,Horacio Alcalá,male,True
+Q2396540,Veredas,Portugal,1977,False,1970,True,João César Monteiro,male,True
+Q23999829,Q23999829,Portugal,1967,False,1960,False,,,False
+Q2405138,No Man's Land,Portugal,2012,False,2010,True,Salomé Lamas,female,True
+Q2421084,The Convent,Portugal,1995,False,1990,True,Manoel de Oliveira,male,True
+Q24705222,Ama-San,Portugal,2017,True,2010,True,Cláudia Varejão,female,True
+Q24705370,Q24705370,Portugal,2016,False,2010,False,Pedro Filipe Marques,male,True
+Q24705697,Porto,Portugal,2016,True,2010,True,Gabe Klinger,male,True
+Q24706482,Treblinka,Portugal,2016,False,2010,True,Sérgio Tréfaut,male,True
+Q24707832,Eldorado XXI,Portugal,2016,False,2010,True,Salomé Lamas,female,True
+Q24707885,All She Wrote,Portugal,2016,False,2010,True,Idalina Leandro,male,True
+Q24746651,Q24746651,Portugal,2016,False,2010,False,Jorge Silva Melo,male,True
+Q24893645,High Season for Spies,Portugal,1966,False,1960,True,Julio Coll,male,True
+Q24936887,The Death of Louis XIV,Portugal,2016,True,2010,True,Albert Serra,male,True
+Q2528486,Visões de Madredeus,Portugal,2012,False,2010,True,Edgar Pêra,male,True
+Q25443870,Photo,Portugal,2012,False,2010,True,Carlos Saboga,male,True
+Q25443997,John From,Portugal,2015,False,2010,True,João Nicolau,male,True
+Q25444135,Q25444135,Portugal,2014,False,2010,False,João Botelho,male,True
+Q25444294,Gelo,Portugal,2016,False,2010,True,Luís Galvão Teles,male,True
+Q25444873,Axilas,Portugal,2016,False,2010,True,José Fonseca e Costa,male,True
+Q25444893,Q25444893,Portugal,2015,False,2010,False,Leonel Vieira,male,True
+Q25444971,Q25444971,Portugal,2011,False,2010,False,António Borges Correia,male,True
+Q25445020,A Canção de Lisboa,Portugal,2016,False,2010,True,Pedro Varela,male,True
+Q25445086,Black Diamonds,Portugal,2013,False,2010,True,Miguel Alcantud,male,True
+Q25541603,The 90 Minute War,Portugal,2015,True,2010,True,Eyal Halfon,male,True
+Q25840841,Caminhos Longos,Portugal,1955,True,1950,True,José Silveira Machado,male,True
+Q25999997,Refrigerantes e Canções de Amor,Portugal,2016,False,2010,True,Luís Galvão Teles,male,True
+Q2605889,É na Terra não É na Lua,Portugal,2011,False,2010,True,Gonçalo Tocha,male,True
+Q2614990,Two Drifters,Portugal,2005,False,2000,True,João Pedro Rodrigues,male,True
+Q26237474,Q26237474,Portugal,2009,False,2000,False,José Fonseca e Costa,male,True
+Q26269985,Arabian Nights: Volume 1 - The Restless One,Portugal,2015,True,2010,True,Miguel Gomes,male,True
+Q26269987,Arabian Nights: Volume 2 - The Desolate One,Portugal,2015,True,2010,True,Miguel Gomes,male,True
+Q26269988,Arabian Nights: Volume 3 - The Enchanted One,Portugal,2015,True,2010,True,Miguel Gomes,male,True
+Q26453873,"Alentejo, Alentejo",Portugal,2014,False,2010,True,Sérgio Tréfaut,male,True
+Q26710817,Never Ever,Portugal,2016,False,2010,True,Benoît Jacquot,male,True
+Q26714904,The Young One,Portugal,2016,False,2010,True,Julien Samani,male,True
+Q26829345,Midnight Return: The Story of Billy Hayes and Turkey,Portugal,2016,False,2010,True,Sally Sussman Morina,female,True
+Q26834427,"Cinema, Manoel de Oliveira and Me",Portugal,2016,False,2010,True,João Botelho,male,True
+Q26905912,Skeleton Sea: The Tides of Tomorrow,Portugal,2016,False,2010,True,Mauritz Brekke Solberg,male,True
+Q26906877,In The Darkness of the Theater I Take off my Shoes,Portugal,2016,False,2010,True,Cláudia Varejão,female,True
+Q26914446,O Espectador Espantado,Portugal,2016,False,2010,True,Edgar Pêra,male,True
+Q2695978,A Talking Picture,Portugal,2003,False,2000,True,Manoel de Oliveira,male,True
+Q27042019,Q27042019,Portugal,2016,False,2010,False,Olga Ramos,female,True
+Q27042636,Q27042636,Portugal,2016,False,2010,False,José Vieira,male,True
+Q27044615,"Deltas, Back to Shores",Portugal,2016,False,2010,True,Charlie Petersmann,male,True
+Q2739044,O Fantasma,Portugal,2000,False,2000,True,João Pedro Rodrigues,male,True
+Q27961886,Q27961886,Portugal,2000,False,2000,False,Cesar Paes,male,True
+Q27972163,Conquest of the Seven Seas,Portugal,2014,False,2010,True,Hannes Schuler; Holger Preuße,male; male,True
+Q28148422,Change One's Life,Portugal,1966,True,1960,True,Paulo Rocha,male,True
+Q28152258,The Chronicles of Polyaris,Portugal,2014,False,2010,True,Christine Reeh,female,True
+Q2819669,The Song from Earth,Portugal,1938,False,1930,True,Jorge Brum do Canto,male,True
+Q28226080,Colo,Portugal,2017,False,2010,True,Teresa Villaverde,female,True
+Q2828076,América,Portugal,2010,False,2010,True,João Nuno Pinto,male,True
+Q2828262,Airbag,Portugal,1997,False,1990,True,Juanma Bajo Ulloa,male,True
+Q28316972,Le divan de Staline,Portugal,2017,False,2010,True,Fanny Ardant,female,True
+Q2835943,The Dog in the Manger,Portugal,1996,False,1990,True,Pilar Mercedes Miró Romero,female,True
+Q28402015,"And when I die, I won't stay dead",Portugal,2015,False,2010,True,Billy Woodberry,male,True
+Q2844859,Amílcar Cabral,Portugal,2001,False,2000,True,Ana Lúcia Ramos Lisboa,female,True
+Q28536730,100 metros,Portugal,2016,False,2010,True,Marcel Barrena,male,True
+Q285864,A Bee in the Rain,Portugal,1972,False,1970,True,Fernando Lopes,male,True
+Q28771647,Vazante,Portugal,2017,False,2010,True,Daniela Thomas,female,True
+Q2877690,Bab Sebta,Portugal,2008,False,2000,True,Frederico Lobo,male,True
+Q28841933,The Forest of Lost Souls,Portugal,2017,False,2010,True,,,False
+Q2891917,Q2891917,Portugal,2006,False,2000,False,,,False
+Q29022399,Leviano,Portugal,2017,False,2010,True,Justin Amorim,male,True
+Q2904738,Bissau d'Isabel,Portugal,2005,False,2000,True,Sana Na N'Hada,male,True
+Q2905937,Branca de Neve,Portugal,2000,False,2000,True,João César Monteiro,male,True
+Q29091381,Retrato de Família,Portugal,1992,False,1990,True,Luís Galvão Teles,male,True
+Q2926562,Mists,Portugal,2000,False,2000,True,Ricardo Costa,male,True
+Q2937198,Black Capes,Portugal,1947,False,1940,True,Armando de Miranda,male,True
+Q2943546,Our Beloved Month of August,Portugal,2008,False,2000,True,Miguel Gomes,male,True
+Q2944219,Ashes and Blood,Portugal,2009,False,2000,True,Fanny Ardant,female,True
+Q2984633,With What Voice,Portugal,2009,False,2000,True,,,False
+Q29856843,Q29856843,Portugal,2014,False,2010,False,João Nuno Brochado,male,True
+Q300327,Beauty and the Paparazzo,Portugal,2010,False,2010,True,António-Pedro Vasconcelos,male,True
+Q3015409,In Vanda's Room,Portugal,2000,False,2000,True,Pedro Costa,male,True
+Q30326633,The Nothing Factory,Portugal,2017,False,2010,True,Pedro Pinho,male,True
+Q3058381,Q3058381,Portugal,1997,False,1990,False,Fernando Matos Silva,male,True
+Q3071065,Few of Us,Portugal,1996,True,1990,True,Šarūnas Bartas,male,True
+Q30742639,Private Life,Portugal,2005,False,2000,True,Zina Modiano,female,True
+Q3080334,Fragmentos de um Filme-Esmola: A Sagrada Família,Portugal,1972,False,1970,True,João César Monteiro,male,True
+Q3087316,Freedom,Portugal,2000,False,2000,True,Šarūnas Bartas,male,True
+Q30939570,Jacinta,Portugal,2017,False,2010,True,Jorge Paixão da Costa,male,True
+Q309863,Dot.Com,Portugal,2007,True,2000,True,Luís Galvão Teles,male,True
+Q3100038,Gebo and the Shadow,Portugal,2012,False,2010,True,Manoel de Oliveira,male,True
+Q312394,The House of the Spirits,Portugal,1993,True,1990,True,Bille August,male,True
+Q3140921,Night Lodgers,Portugal,2007,False,2000,True,Licínio Azevedo,male,True
+Q3147724,Aqui na Terra,Portugal,1993,False,1990,True,João Botelho,male,True
+Q3179069,A Few Days in September,Portugal,2006,False,2000,True,Santiago Amigorena,male,True
+Q3187325,João Sete Sete,Portugal,2006,False,2000,True,,,False
+Q3200727,Kuxa Kanema: The Birth of Cinema,Portugal,2003,False,2000,True,Margarida Cardoso,female,True
+Q3205507,The Strange Case of Angelica,Portugal,2010,False,2010,True,Manoel de Oliveira,male,True
+Q3209729,The Face You Deserve,Portugal,2004,False,2000,True,Miguel Gomes,male,True
+Q3211236,The Night of the Sunflowers,Portugal,2006,False,2000,True,Jorge Sánchez-Cabezudo,male,True
+Q3212220,The Portuguese Nun,Portugal,2009,False,2000,True,Eugène Green,male,True
+Q3213673,The Inner Life of Martin Frost,Portugal,2007,False,2000,True,Paul Auster,male,True
+Q3213823,City of Pirates,Portugal,1983,False,1980,True,Raúl Ruiz,male,True
+Q3221980,O Crime do Padre Amaro,Portugal,2005,False,2000,True,Carlos Coelho da Silva,male,True
+Q3222216,The Last Dive,Portugal,1992,False,1990,True,João César Monteiro,male,True
+Q3224612,Magic Mirror,Portugal,2005,False,2000,True,Manoel de Oliveira,male,True
+Q322734,Recollections of the Yellow House,Portugal,1989,False,1980,True,João César Monteiro,male,True
+Q3232231,The Demons,Portugal,1973,True,1970,True,Jesús Franco,male,True
+Q3234197,As Bodas de Deus,Portugal,1999,False,1990,True,João César Monteiro,male,True
+Q3236203,The Blue Eyes of Yonta,Portugal,1992,False,1990,True,Flora Gomes,male,True
+Q3280841,My Case,Portugal,1986,False,1980,True,Manoel de Oliveira,male,True
+Q3281298,The Cannibals,Portugal,1988,False,1980,True,Manoel de Oliveira,male,True
+Q3281369,Hovering Over the Water,Portugal,1986,False,1980,True,João César Monteiro,male,True
+Q3281790,Nha Fala,Portugal,2002,False,2000,True,Flora Gomes,male,True
+Q3282326,Embargo,Portugal,2010,False,2010,True,António Ferreira,male,True
+Q3284859,"Douro, Faina Fluvial",Portugal,1931,False,1930,True,Manoel de Oliveira,male,True
+Q3284941,Amália,Portugal,2008,False,2000,True,Carlos Coelho da Silva,male,True
+Q33139,To Die like a Man,Portugal,2009,False,2000,True,João Pedro Rodrigues,male,True
+Q3332379,Os Imortais,Portugal,2003,False,2000,True,António-Pedro Vasconcelos,male,True
+Q3334951,O Grande Elias,Portugal,1950,False,1950,True,Arthur Duarte,male,True
+Q3337526,Change Nothing,Portugal,2009,False,2000,True,Pedro Costa,male,True
+Q3346137,Nuit de chien,Portugal,2008,False,2000,True,Werner Schroeter,male,True
+Q3347777,Q3347777,Portugal,1922,False,1920,False,Georges Pallu,male,True
+Q3356884,Q3356884,Portugal,1920,False,1920,False,Georges Pallu,male,True
+Q3392888,Po di Sangui,Portugal,1996,False,1990,True,Flora Gomes,male,True
+Q3399357,Porto of My Childhood,Portugal,2001,False,2000,True,Manoel de Oliveira,male,True
+Q3413918,What Will I Do with This Sword?,Portugal,1975,False,1970,True,João César Monteiro,male,True
+Q3420831,Only Human,Portugal,2004,True,2000,True,Dominic Harari; Teresa De Pelegrí,male; female,True
+Q3538964,Tricheurs,Portugal,1984,False,1980,True,Barbet Schroeder,male,True
+Q3553054,Vai~E~Vem (Come and Go),Portugal,2003,False,2000,True,João César Monteiro,male,True
+Q3665734,Chagall,Portugal,1967,False,1960,True,António Campos,male,True
+Q3701100,Haircut,Portugal,1995,False,1990,True,Joaquim Sapinho,male,True
+Q3744742,Hijos del viento,Portugal,2000,False,2000,True,José Miguel Juárez,male,True
+Q3750955,Francisca,Portugal,1981,False,1980,True,Manoel de Oliveira,male,True
+Q3766322,Mad Love,Portugal,2001,False,2000,True,Vicente Aranda,male,True
+Q3793094,O Bobo,Portugal,1987,False,1980,True,José Álvaro Morais,male,True
+Q3817379,Kunta,Portugal,2007,False,2000,True,Ângelo Torres,male,True
+Q3822379,The Daughter of Dracula,Portugal,1972,False,1970,True,Jesús Franco,male,True
+Q389511,According to Pereira,Portugal,1995,True,1990,True,Roberto Faenza,male,True
+Q3908441,All Is Well,Portugal,2011,False,2010,True,Pocas Pascoal,female,True
+Q39469588,Saint George,Portugal,2016,False,2010,True,Marco Martins,male,True
+Q3999989,Fleurette,Portugal,2002,False,2000,True,Sérgio Tréfaut,male,True
+Q4025464,Two Female Spies with Flowered Panties,Portugal,1978,True,1970,True,Jesús Franco,male,True
+Q405935,Ainda Há Pastores?,Portugal,2006,False,2000,True,Jorge Pelicano,male,True
+Q41366550,The Train of Salt and Sugar,Portugal,2016,False,2010,True,Licínio Azevedo,male,True
+Q43303081,Q43303081,Portugal,1990,False,1990,False,,,False
+Q4639050,4 Hearts,Portugal,2008,False,2000,True,Manuel Mozos,male,True
+Q4655302,Aldeia da Roupa Branca,Portugal,1938,False,1930,True,Chianca de Garcia,male,True
+Q4656115,A Corte do Norte,Portugal,2009,False,2000,True,João Botelho,male,True
+Q4656624,A Esperança Está Onde Menos Se Espera,Portugal,2009,False,2000,True,Joaquim Leitão,male,True
+Q4657023,A Girl In Summer,Portugal,1986,False,1980,True,Vítor Gonçalves,male,True
+Q4657463,A Ilha dos Amores,Portugal,1982,False,1980,True,Paulo Rocha,male,True
+Q4658204,A Menina da Rádio,Portugal,1944,False,1940,True,Arthur Duarte,male,True
+Q4658689,A Painting of Roses,Portugal,2003,True,2000,True,Miguel Ribeiro,male,True
+Q4659419,A Sereia de Pedra,Portugal,1923,False,1920,True,Roger Lion,male,True
+Q4659432,A Severa,Portugal,1931,False,1930,True,José Leitão de Barros,male,True
+Q4660483,A Vingança de uma Mulher,Portugal,2012,False,2010,True,Rita Azevedo Gomes,female,True
+Q4661010,The Last Time I Saw Macao,Portugal,2012,False,2010,True,João Pedro Rodrigues; João Rui Guerra da Mata,male; male,True
+Q4686970,Adão e Eva,Portugal,1995,False,1990,True,Joaquim Leitão,male,True
+Q471551,Facing Windows,Portugal,2003,True,2000,True,Ferzan Özpetek,male,True
+Q4725699,Alice,Portugal,2005,False,2000,True,Marco Martins,male,True
+Q4750299,Ana,Portugal,1982,False,1980,True,António Reis,male,True
+Q4779138,Aparelho Voador a Baixa Altitude,Portugal,2002,False,2000,True,Solveig Nordlund,female,True
+Q48755094,Demain?,Portugal,2012,False,2010,True,Christine Laurent,female,True
+Q48755117,Q48755117,Portugal,1997,False,1990,False,Christine Laurent,female,True
+Q48782194,Tous les rêves du monde,Portugal,2017,False,2010,True,Laurence Ferreira Barbosa,female,True
+Q48868659,Fátima,Portugal,2017,True,2010,True,João Canijo,male,True
+Q48876675,Q48876675,Portugal,2017,False,2010,False,,,False
+Q48877740,Adrift,Portugal,2017,False,2010,True,Sérgio Graciano,male,True
+Q48877771,Peregrinação,Portugal,2017,False,2010,True,João Botelho,male,True
+Q48879263,Bad Investigate,Portugal,2018,False,2010,True,Luís Ismael,male,True
+Q48879314,Alguém Como Eu,Portugal,2017,False,2010,True,Leonel Vieira,male,True
+Q48879342,O Fim da Inocência,Portugal,2017,False,2010,True,Joaquim Leitão,male,True
+Q48879427,Índice Médio de Felicidade,Portugal,2017,False,2010,True,Joaquim Leitão,male,True
+Q4927836,Blood of My Blood,Portugal,2011,False,2010,True,João Canijo,male,True
+Q4947318,Bosnia Diaries,Portugal,2005,False,2000,True,Joaquim Sapinho,male,True
+Q4957165,Brandos Costumes,Portugal,1975,False,1970,True,Alberto Seixas Santos,male,True
+Q5024945,Camarate,Portugal,2001,False,2000,True,Luís Filipe Rocha,male,True
+Q50280855,Traffic,Portugal,1998,False,1990,True,João Botelho,male,True
+Q5028831,Camões,Portugal,1946,False,1940,True,José Leitão de Barros,male,True
+Q5065024,Cerromaior,Portugal,1981,False,1980,True,Luís Filipe Rocha,male,True
+Q5072035,Changing Tides,Portugal,1976,False,1970,True,Ricardo Costa,male,True
+Q50825505,Spell Reel,Portugal,2018,False,2010,True,Filipa César,female,True
+Q5102639,Bocage,Portugal,1936,False,1930,True,José Leitão de Barros,male,True
+Q5141658,Coisa Ruim,Portugal,2006,False,2000,True,Frederico Serra; Tiago Guedes,male; male,True
+Q5149118,Colossal Youth,Portugal,2006,False,2000,True,Pedro Costa,male,True
+Q51495316,Q51495316,Portugal,2017,False,2010,False,Luís Campos,male,True
+Q5177219,Night Train to Lisbon,Portugal,2013,False,2010,True,Bille August,male,True
+Q5276826,Swan,Portugal,2011,False,2010,True,Teresa Villaverde,female,True
+Q5297087,Doomed Love,Portugal,2008,False,2000,True,Mario Barroso,male,True
+Q5303026,Down to Earth,Portugal,1995,False,1990,True,Pedro Costa,male,True
+Q5307493,Drifts,Portugal,2013,False,2010,True,Ricardo Costa,male,True
+Q5310444,Duas Mulheres,Portugal,2009,False,2000,True,João Mário Grilo,male,True
+Q5318642,Dying to Go Home,Portugal,1996,False,1990,True,George Sluizer,male,True
+Q5368750,Em Câmara Lenta,Portugal,2012,False,2010,True,Fernando Lopes,male,True
+Q5396851,Burning Patience,Portugal,1983,True,1980,True,Antonio Skármeta,male,True
+Q5409132,El padre Coplillas,Portugal,1968,False,1960,True,Ramon Comas,male,True
+Q544757,Rastas,Portugal,2003,False,2000,True,,,False
+Q5455885,"Five Days, Five Nights",Portugal,1996,False,1990,True,José Fonseca e Costa,male,True
+Q5460493,Florbela,Portugal,2012,False,2010,True,Vicente Alves do Ó,male,True
+Q546788,Aniki-Bóbó,Portugal,1942,False,1940,True,Manoel de Oliveira,male,True
+Q5505475,From Now On,Portugal,2007,False,2000,True,Catarina Ruivo,female,True
+Q55078561,Cabaret Maxime,Portugal,2018,False,2010,True,Bruno de Almeida,male,True
+Q55272444,Diamantino,Portugal,2018,True,2010,True,Daniel Schmidt; Gabriel Abrantes,male; male,True
+Q5554305,Get a Life,Portugal,2001,False,2000,True,João Canijo,male,True
+Q55596628,Dharma Guns,Portugal,2010,False,2010,True,F. J. Ossang,male,True
+Q55599108,Vanishing Point,Portugal,1983,False,1980,True,Raúl Ruiz,male,True
+Q55599963,Swing Troubadour,Portugal,1991,False,1990,True,Bruno Bayen,male,True
+Q5571297,Gloria,Portugal,1999,False,1990,True,Manuela Viegas,female,True
+Q5577149,The Education of Fairies,Portugal,2006,False,2000,True,José Luis Cuerda,male,True
+Q56281346,The Black Book,Portugal,2018,False,2010,True,Valeria Sarmiento,female,True
+Q56306217,Requiem,Portugal,1998,False,1990,True,Alain Tanner,male,True
+Q56309595,Sanguines,Portugal,1988,False,1980,True,Christian François,male,True
+Q56346520,Q56346520,Portugal,1979,False,1970,False,Ricardo Costa,male,True
+Q56346521,Q56346521,Portugal,1981,False,1980,False,Ricardo Costa,male,True
+Q56347024,Q56347024,Portugal,1975,False,1970,False,António de Macedo,male,True
+Q56347029,Q56347029,Portugal,1975,False,1970,False,Manuel Guimarães,male,True
+Q56347102,The Wheat and the Tares,Portugal,1965,False,1960,True,Manuel Guimarães,male,True
+Q56350907,Linhas de Sangue,Portugal,2018,False,2010,True,Manuel Pureza; Sérgio Graciano,male; male,True
+Q56351199,Aparição,Portugal,2018,False,2010,True,Fernando Vendrell,male,True
+Q5725294,Belmonte,Portugal,1995,False,1990,True,Juan Sebastián Bollaín,male,True
+Q57468055,Hero on the Front,Portugal,2018,False,2010,True,Gonçalo Galvão Teles; Jorge Paixão da Costa,male; male,True
+Q57502054,Al Berto,Portugal,2017,True,2010,True,Vicente Alves do Ó,male,True
+Q58030445,Jefe,Portugal,2018,False,2010,True,Sergio Barrejón,male,True
+Q5827055,Carol's Journey,Portugal,2002,False,2000,True,Imanol Uribe,male,True
+Q5862068,Fin de curso,Portugal,2005,False,2000,True,Miguel Martí,male,True
+Q591880,The Lovebirds,Portugal,2007,False,2000,True,Bruno de Almeida,male,True
+Q59309628,Nightfall,Portugal,1999,True,1990,True,Fred Kelemen,male,True
+Q59573022,Parque Mayer,Portugal,2018,False,2010,True,António-Pedro Vasconcelos,male,True
+Q596254,Marrabenta Stories,Portugal,2004,False,2000,True,Karen Boswall,female,True
+Q5965935,The Wooden Box,Portugal,2007,False,2000,True,J.C. Falcón,unknown,True
+Q59690322,That's How It Was,Portugal,2016,False,2010,True,Joana Nogueira; Patricia Rodrigues,female; female,True
+Q59690450,God Will Provide,Portugal,2016,False,2010,True,Luis Porto,male,True
+Q59690592,Law of Gravity,Portugal,2016,False,2010,True,Tiago Rosa-Rossu,male,True
+Q59690688,Isa,Portugal,2016,False,2010,True,Patricia Vidal Delgado,female,True
+Q59690740,The Robbery,Portugal,2016,False,2010,True,Joao Tempera,male,True
+Q59690781,I'd Rather Not Say,Portugal,2016,False,2010,True,Pedro Augusto Aimeida,male,True
+Q59690818,#Lingo,Portugal,2016,False,2010,True,Vincent Niro,male,True
+Q59690862,The Carnations And the Rock,Portugal,2016,False,2010,True,Luisa Sequeira,female,True
+Q6002660,Imagine,Portugal,2012,True,2010,True,Andrzej Jakimowski,male,True
+Q6012055,In the Darkness of the Night,Portugal,2004,False,2000,True,João Canijo,male,True
+Q60219821,Ashore,Portugal,2018,False,2010,True,Leonor Teles,female,True
+Q60462481,La ciudad de los prodigios,Portugal,1999,False,1990,True,Mario Camus,male,True
+Q6047803,Another Man's Garden,Portugal,2007,False,2000,True,Sol de Carvalho,male,True
+Q60844539,Q60844539,Portugal,2015,False,2010,False,José Afonso Dias Pimentel,male,True
+Q60851950,Q60851950,Portugal,1948,False,1940,False,Mariano Pombo,male,True
+Q60998213,Alex,Portugal,1991,False,1990,True,Teresa Villaverde,female,True
+Q60999483,The Dead Queen,Portugal,2018,False,2010,True,António Ferreira,male,True
+Q60999484,Ruth,Portugal,2018,False,2010,True,,,False
+Q60999486,Amor Amor,Portugal,2018,False,2010,True,Jorge Cramez,male,True
+Q60999488,Zeus,Portugal,2017,False,2010,True,Paulo Filipe Monteiro,male,True
+Q60999503,Ramiro,Portugal,2018,False,2010,True,Manuel Mozos,male,True
+Q60999516,Praça Paris,Portugal,2018,True,2010,True,Lúcia Maria Murat de Vasconcelos,female,True
+Q60999543,Q60999543,Portugal,1987,False,1980,False,Paulo Guilherme d'Eça Leal,male,True
+Q60999556,Carga,Portugal,2018,False,2010,True,,,False
+Q60999925,Q60999925,Portugal,2017,False,2010,False,Jorge António,male,True
+Q60999947,Melodies of a Mute Life,Portugal,2017,False,2010,True,,,False
+Q60999962,Malapata,Portugal,2017,False,2010,True,Diogo Morgado,male,True
+Q60999965,Ruas Rivais,Portugal,2014,False,2010,True,,,False
+Q60999967,O Amor É Lindo... Porque Sim!,Portugal,2016,False,2010,True,Vicente Alves do Ó,male,True
+Q60999974,Eclipse em Portugal,Portugal,2014,False,2010,True,,,False
+Q60999980,Uma Vida À Espera,Portugal,2017,False,2010,True,Sérgio Graciano,male,True
+Q60999988,Mother Knows Best,Portugal,2016,False,2010,True,,,False
+Q61642070,Mabata Bata,Portugal,2017,False,2010,True,Sol de Carvalho,male,True
+Q61642169,Around the World When You Were My Age,Portugal,2018,False,2010,True,Aya Koretzky,female,True
+Q61672486,Galileo’s Thermometer,Portugal,2018,False,2010,True,Teresa Villaverde,female,True
+Q61672516,Djon Africa,Portugal,2018,True,2010,True,Filipa Reis; João Miller Guerra,female; male,True
+Q61697048,Entre sombras,Portugal,2018,False,2010,True,Alice Guimarães; Mónica Santos,female; female,True
+Q61726951,The Wolf’s Lair,Portugal,2015,False,2010,True,Catarina Mourão,female,True
+Q63371936,La pequeña Suiza,Portugal,2019,False,2010,True,Kepa Sojo,male,True
+Q63498342,Pedro,Portugal,2016,False,2010,True,André Santos,male,True
+Q63975259,The Book of Crystal,Portugal,1996,False,1990,True,Patricia Plattner,female,True
+Q65010093,The Night,Portugal,1999,False,1990,True,Regina Pessoa,female,True
+Q65129391,Q65129391,Portugal,1984,False,1980,False,Valeria Sarmiento,female,True
+Q65161077,Out in the Open,Portugal,2019,False,2010,True,Benito Zambrano,male,True
+Q66501208,Vitalina Varela,Portugal,2019,True,2010,True,Pedro Costa,male,True
+Q665692,The Consul of Bordeaux,Portugal,2011,True,2010,True,Francisco Manso,male,True
+Q66589280,Made in Bangladesh,Portugal,2019,False,2010,True,Rubaiyat Hossain,female,True
+Q6673708,Longe é a cidade,Portugal,1981,False,1980,True,Ricardo Costa,male,True
+Q66763623,Variações: Guardian Angel,Portugal,2019,False,2010,True,João Maia,male,True
+Q6691434,Love Torn in a Dream,Portugal,2000,False,2000,True,Raúl Ruiz,male,True
+Q67174102,A Herdade,Portugal,2019,False,2010,True,Tiago Guedes,male,True
+Q6761480,Maria Papoila,Portugal,1937,False,1930,True,José Leitão de Barros,male,True
+Q6761705,Maria do Mar,Portugal,1930,False,1930,True,José Leitão de Barros,male,True
+Q679684,In the White City,Portugal,1982,True,1980,True,Alain Tanner,male,True
+Q6909249,Morangos com Açúcar – O Filme,Portugal,2012,False,2010,True,Hugo de Sousa,male,True
+Q6912919,Morning Undersea,Portugal,1980,False,1980,True,Lauro António,male,True
+Q692367,The State of Things,Portugal,1982,False,1980,True,Wim Wenders,male,True
+Q694651,Lisbon Story,Portugal,1994,True,1990,True,Wim Wenders,male,True
+Q7063274,How to Draw a Perfect Circle,Portugal,2009,False,2000,True,Marco Martins,male,True
+Q7073265,O Homem dos Olhos Tortos,Portugal,1918,False,1910,True,José Leitão de Barros,male,True
+Q7073312,O Pátio das Cantigas,Portugal,1942,False,1940,True,Ribeirinho,male,True
+Q7073313,O Pão e o Vinho,Portugal,1981,False,1980,True,Ricardo Costa,male,True
+Q7073322,O Sangue,Portugal,1989,False,1980,True,Pedro Costa,male,True
+Q7105474,Os Olhos da Ásia,Portugal,1996,True,1990,True,João Mário Grilo,male,True
+Q7125251,Paixão,Portugal,2012,False,2010,True,Margarida Gil,female,True
+Q7156449,Pax,Portugal,1994,False,1990,True,Eduardo Guedes,male,True
+Q7199014,"Pitoes, a village of Barroso",Portugal,1979,False,1970,True,Ricardo Costa,male,True
+Q7232678,Portuguese Rhapsody,Portugal,1959,False,1950,True,João Mendes,male,True
+Q7269238,Quarta Divisão,Portugal,2013,False,2010,True,Joaquim Leitão,male,True
+Q72926282,Campo,Portugal,2019,False,2010,True,Tiago Hespanha,male,True
+Q7316632,Retalhos da Vida de Um Médico,Portugal,1962,False,1960,True,Jorge Brum do Canto,male,True
+Q7338017,River of Gold,Portugal,1998,False,1990,True,Paulo Rocha,male,True
+Q734477,"Luanda, The Music Factory",Portugal,2009,False,2000,True,Inês Gonçalves; Kiluanje Liberdade,female; male,True
+Q736420,Belle Toujours,Portugal,2006,False,2000,True,Manoel de Oliveira,male,True
+Q737055,Cosmopolis,Portugal,2012,False,2010,True,David Cronenberg,male,True
+Q74259704,A Luz Vem do Alto,Portugal,1959,False,1950,True,Henrique Campos,male,True
+Q76481109,Ordinary Time,Portugal,2018,True,2010,True,Susana Nobre,female,True
+Q7714411,The Art of Amália,Portugal,2000,False,2000,True,Bruno de Almeida,male,True
+Q7715675,The Baron,Portugal,2011,False,2010,True,Edgar Pêra,male,True
+Q7731208,The Dumbfounded King,Portugal,1991,False,1990,True,Imanol Uribe,male,True
+Q7732144,The End of the World,Portugal,1992,False,1990,True,João Mário Grilo,male,True
+Q7734783,The Forest,Portugal,2002,False,2000,True,Leonel Vieira,male,True
+Q7745763,The Last Flight of the Flamingo,Portugal,2010,False,2010,True,João Carlos Alves de Vasconcelos Ribeiro,male,True
+Q7751619,The Miracle According to Salomé,Portugal,2004,False,2000,True,Mario Barroso,male,True
+Q7752801,The Mutants,Portugal,1998,True,1990,True,Teresa Villaverde,female,True
+Q7757645,The Policewoman,Portugal,2003,False,2000,True,Joaquim Sapinho,male,True
+Q7760753,The Right Juice,Portugal,2014,False,2010,True,Kristjan Knigge,male,True
+Q7768513,The Territory,Portugal,1981,False,1980,True,Raúl Ruiz,male,True
+Q7770922,The Two Faces of War,Portugal,2007,False,2000,True,Diana Andringa; Flora Gomes,female; male,True
+Q77718303,Lineage,Portugal,1961,False,1960,True,Augusto Fraga,male,True
+Q7773109,The Vows,Portugal,1973,False,1970,True,António de Macedo,male,True
+Q777458,Maquete,Portugal,2005,False,2000,True,David Bonneville,male,True
+Q7786260,This Side of Resurrection,Portugal,2011,False,2010,True,Joaquim Sapinho,male,True
+Q778734,Bearskin: An Urban Fairytale,Portugal,1989,True,1980,True,Eduardo Guedes,male,True
+Q77988378,Alva,Portugal,2019,False,2010,True,Ico Costa,male,True
+Q7823847,Too Late,Portugal,2000,False,2000,True,José Nascimento,male,True
+Q7833968,Transe,Portugal,2006,False,2000,True,Teresa Villaverde,female,True
+Q7849099,Trás-os-Montes,Portugal,1977,False,1970,True,António Reis,male,True
+Q7849158,Três Dias Sem Deus,Portugal,1945,False,1940,True,Bárbara Virgínia,female,True
+Q7849162,Três Irmãos,Portugal,1994,False,1990,True,Teresa Villaverde,female,True
+Q7854768,Turbulence,Portugal,2000,False,2000,True,Ruy Guerra,male,True
+Q7881005,Uma Aventura na Casa Assombrada,Portugal,2009,False,2000,True,Carlos Coelho da Silva,male,True
+Q7881939,Un Asunto Privado,Portugal,1996,False,1990,True,Imanol Arias,male,True
+Q78835471,Quero-te Tanto!,Portugal,2019,False,2010,True,Vicente Alves do Ó,male,True
+Q7921065,"Verde por fora, vermelho por dentro",Portugal,1980,False,1980,True,Ricardo Costa,male,True
+Q7990813,What's New About Love?,Portugal,2011,False,2010,True,Hugo Alves; Hugo Martins; Mónica Santana Baptista; Patricia Raposo; Rui Alexandre Santos; Tiago Nunes,unknown; unknown; unknown; unknown; unknown; unknown,True
+Q8073832,Zona J,Portugal,1998,False,1990,True,Leonel Vieira,male,True
+Q815263,Belarmino,Portugal,1964,False,1960,True,Fernando Lopes,male,True
+Q84428750,The Metamorphosis of Birds,Portugal,2020,False,2020,True,Catarina Vasconcelos,female,True
+Q85853695,State of the World,Portugal,2007,False,2000,True,Chantal Akerman,female,True
+Q86346508,A Yellow Animal,Portugal,2020,False,2020,True,Felipe Bragança,male,True
+Q87134762,Fatima,Portugal,2020,False,2020,True,Marco Pontecorvo,male,True
+Q87834869,The Marvelous Misadventures of the Stone Lady,Portugal,2019,False,2010,True,Gabriel Abrantes,male,True
+Q88681204,Q88681204,Portugal,1947,False,1940,False,Arthur Duarte,male,True
+Q88874044,Q88874044,Portugal,1989,False,1980,False,Patricia Plattner,female,True
+Q892090,Q892090,Portugal,1969,False,1960,False,,,False
+Q9005000,Hotel Tivoli,Portugal,2007,False,2000,True,Antón Reixa,male,True
+Q90594327,Sud Express,Portugal,2005,True,2000,True,Chema de la Peña; Gabriel Velázquez,male; male,True
+Q91106040,Gurumbe: Afro-Andalusian Memories,Portugal,2016,False,2010,True,Miguel Ángel Rosales,unknown,True
+Q9258137,Fátima,Portugal,1997,False,1990,True,Fabrizio Costa,male,True
+Q92946436,The Owners of Dixie,Portugal,2015,False,2010,True,Miguel Gomes,male,True
+Q93448405,As Happy as Possible,Portugal,2019,False,2010,True,Alain Raoust,male,True
+Q935736,Party,Portugal,1996,False,1990,True,Manoel de Oliveira,male,True
+Q94137681,Water and Salt,Portugal,2001,False,2000,True,Teresa Villaverde,female,True
+Q9545780,100Volta,Portugal,2009,False,2000,True,,,False
+Q9550436,Q9550436,Portugal,1974,False,1970,False,,,False
+Q9550978,Q9550978,Portugal,1974,False,1970,False,José de Sá Caetano,male,True
+Q9553765,5 F's,Portugal,2005,False,2000,True,Carlos Domingomes,male,True
+Q9554684,88,Portugal,2002,False,2000,True,Edgar Pêra,male,True
+Q9556377,Q9556377,Portugal,2005,False,2000,False,Miguel Gonçalves Mendes,male,True
+Q9556660,The City of the Dead,Portugal,2011,False,2010,True,Sérgio Tréfaut,male,True
+Q9556703,The Confederation: The People Make History,Portugal,1977,False,1970,True,Luís Galvão Teles,male,True
+Q9556808,Q9556808,Portugal,1980,False,1980,False,António Victorino de Almeida,male,True
+Q9557774,The Law of the Land - Alentejo 1976,Portugal,1977,False,1970,True,Alberto Seixas Santos; Solveig Nordlund,male; female,True
+Q9558169,A Mulher Do Proximo,Portugal,1988,False,1980,True,José Fonseca e Costa,male,True
+Q9558457,A Outra Margem,Portugal,2007,False,2000,True,Luís Filipe Rocha,male,True
+Q9558716,Q9558716,Portugal,2000,False,2000,False,Paulo Rocha,male,True
+Q9558784,Q9558784,Portugal,1937,False,1930,False,António Lopes Ribeiro,male,True
+Q9558817,Q9558817,Portugal,1919,False,1910,False,Georges Pallu,male,True
+Q9559324,Salazar: A Vida Privada,Portugal,2009,False,2000,True,Jorge Queiroga,male,True
+Q9582913,"Adeus, Pai",Portugal,1996,False,1990,True,Luís Filipe Rocha,male,True
+Q9582921,Q9582921,Portugal,1974,False,1970,False,António-Pedro Vasconcelos,male,True
+Q9583742,Adriana,Portugal,2005,False,2000,True,Margarida Gil,female,True
+Q96095777,In the Dusk,Portugal,2019,False,2010,True,Šarūnas Bartas,male,True
+Q96101673,Viriato,Portugal,2019,False,2010,True,,,False
+Q9610883,Amo-te Teresa,Portugal,2000,False,2000,True,Cristina Boavida; Ricardo Espírito Santo,unknown; unknown,True
+Q9618546,"Antonio, a Boy from Lisbon",Portugal,1999,False,1990,True,Jorge Silva Melo,male,True
+Q96238901,Mosquito,Portugal,2020,False,2020,True,João Nuno Pinto,male,True
+Q9624435,Q9624435,Portugal,1975,False,1970,False,Ricardo Costa,male,True
+Q9626875,Aqui d'El Rei!,Portugal,1992,False,1990,True,António-Pedro Vasconcelos,male,True
+Q9631106,Arte de Roubar,Portugal,2008,False,2000,True,Leonel Vieira,male,True
+Q9632577,As Pupilas do Senhor Reitor,Portugal,1961,False,1960,True,Perdigão Queiroga,male,True
+Q9637058,Behind the Clouds,Portugal,2007,False,2000,True,Jorge Queiroga,male,True
+Q9640755,Q9640755,Portugal,1975,False,1970,False,Ricardo Costa,male,True
+Q96418011,Captain Singrid,Portugal,1963,False,1960,True,Jean Leduc,male,True
+Q9644367,Balas & Bolinhos,Portugal,2001,False,2000,True,Luís Ismael,male,True
+Q9649404,Q9649404,Portugal,1976,False,1970,False,Luís Filipe Rocha,male,True
+Q9668273,Bufo & Spallanzani,Portugal,2001,False,2000,True,Flávio Ramos Tambellini,male,True
+Q9669122,Q9669122,Portugal,1980,False,1980,False,Alfredo Tropa,male,True
+Q9694792,Q9694792,Portugal,1975,False,1970,False,António-Pedro Vasconcelos,male,True
+Q9694796,Q9694796,Portugal,1975,False,1970,False,António-Pedro Vasconcelos,male,True
+Q9694802,Q9694802,Portugal,1975,False,1970,False,,,False
+Q9694812,Q9694812,Portugal,1975,False,1970,False,,,False
+Q9696295,Captains of the Sands,Portugal,2011,False,2010,True,Cecília Amado; Guy Gonçalves,female; male,True
+Q9697851,Q9697851,Portugal,2006,False,2000,False,,,False
+Q9702004,Q9702004,Portugal,1983,False,1980,False,Lauro António,male,True
+Q97156232,"Barcelona, ciutat neutral",Portugal,2011,False,2010,True,Sònia Sánchez,female,True
+Q97180551,Technoboss,Portugal,2019,False,2010,True,João Nicolau,male,True
+Q9873112,Conversa Acabada,Portugal,1981,False,1980,True,João Botelho,male,True
+Q98926084,Amor de Perdição,Portugal,1921,False,1920,True,Georges Pallu,male,True
+Q99914407,Q99914407,Portugal,1944,False,1940,False,Ladislao Vajda,male,True
+Q99971593,Moral Order,Portugal,2020,False,2020,True,Mario Barroso,male,True
