@@ -1,0 +1,10 @@
+SELECT ?film ?filmLabel ?countryLabel ?year ?directorLabel ?genderLabel WHERE {
+  VALUES ?country { wd:Q45 }
+  ?film wdt:P31 wd:Q11424;
+        wdt:P495 ?country;
+        wdt:P577 ?date.
+  OPTIONAL { ?film wdt:P57 ?director.
+             OPTIONAL { ?director wdt:P21 ?gender. } }
+  BIND(YEAR(?date) AS ?year)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
+}
